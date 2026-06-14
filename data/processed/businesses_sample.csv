@@ -1,0 +1,956 @@
+business_id,business_name,industry_group,zip,neighborhood,status
+1,BODYCARE TREATMENT INC,Food & Beverage,33125,Little Havana,Active
+2,PROFESSIONAL CUT UNISEX INC,Food & Beverage,33125,Little Havana,Active
+3,IBM PATRON CORP,Food & Beverage,33125,Little Havana,Active
+4,DIAMANTE ROSA BEAUTY SALON CORP,Food & Beverage,33125,Little Havana,Active
+5,NICOLE'S BEAUTY SALON CORP,Food & Beverage,33125,Little Havana,Active
+6,COCO CAFE LLC,Food & Beverage,33125,Little Havana,Active
+7,LA FRAGANCIA BARBER SHOP CORP,Food & Beverage,33125,Little Havana,Active
+8,SASSY HAIR SALON,Food & Beverage,33125,Little Havana,Active
+9,MATTRESS ONLY,Retail,33125,Little Havana,Active
+10,ELITE WIRELESS GROUP LLC,Retail,33125,Little Havana,Active
+11,ORION,Retail,33125,Little Havana,Active
+12,E & I CASH INC,Retail,33125,Little Havana,Active
+13,FANATICS RETAIL GROUP CONCESSIONS LLC,Retail,33125,Little Havana,Active
+14,LA ESTRELLA DE ORO 5,Retail,33125,Little Havana,Active
+15,J MOBIL INC,Retail,33125,Little Havana,Active
+16,MAGIC CITY CASINO,Retail,33125,Little Havana,Active
+17,FILIGRAN DECOR LLC,Real Estate,33125,Little Havana,Active
+18,FUENT GON LLC,Real Estate,33125,Little Havana,Active
+19,REEF KITCHENS,Real Estate,33125,Little Havana,Active
+20,ARIELS JEWELRY NO 4 INC,Real Estate,33125,Little Havana,Active
+21,BALADO NATIONAL TIRES INC,Real Estate,33125,Little Havana,Active
+22,JUST COLOR LLC,Real Estate,33125,Little Havana,Active
+23,INSTALOAN,Real Estate,33125,Little Havana,Active
+24,DAICRI USA CORP,Real Estate,33125,Little Havana,Active
+25,ZERPA ARELYS LMHC,Healthcare,33125,Little Havana,Active
+26,ILIET MED & SPA LLC,Healthcare,33125,Little Havana,Active
+27,REALES ALBERTO JESUS MD,Healthcare,33125,Little Havana,Active
+28,MIND LIBERTY CENTER INC,Healthcare,33125,Little Havana,Active
+29,LEGACY HOME CARE SERVICES LLC,Healthcare,33125,Little Havana,Active
+30,DOMINGUEZ RENATO CARLOS MD,Healthcare,33125,Little Havana,Active
+31,FELDO HEALTH RESEARCH SERVICES INC,Healthcare,33125,Little Havana,Active
+32,NUEVA VIDA DIALYSIS CENTER LLC,Healthcare,33125,Little Havana,Active
+33,MISTER AMADEOS RETIREMENT HOME INC,Technology,33125,Little Havana,Active
+34,RAMOS LOCKSMITH GROUP CORP,Technology,33125,Little Havana,Active
+35,RESIDENTIAL HOME FOR ADULT CARE 1 INC,Technology,33125,Little Havana,Active
+36,MIAMI BRIDGE YOUTH & FAMILY SERV INC,Technology,33125,Little Havana,Active
+37,KEKO LOCKSMITH US LLC,Technology,33125,Little Havana,Active
+38,LEYI ADULT CARE INC,Technology,33125,Little Havana,Active
+39,DP REAL ESTATE HOLDINGS LLC,Technology,33125,Little Havana,Active
+40,CITIZENS FOR A BETTER SOUTH FLORIDA INC,Technology,33125,Little Havana,Active
+41,CUBILLO POOL TILE AND COPING CORP,Construction,33125,Little Havana,Active
+42,BISMART CORP,Construction,33125,Little Havana,Active
+43,ALL DADE GENERAL CONSTRUCTION INC,Construction,33125,Little Havana,Active
+44,MIAMI EMERGENCY PLUMBING,Construction,33125,Little Havana,Active
+45,MR MOLDING CORP,Construction,33125,Little Havana,Active
+46,A K O PLUMBING CORP,Construction,33125,Little Havana,Active
+47,DADE PROFESSIONAL ROOFING CORP,Construction,33125,Little Havana,Active
+48,ALMENDAREZ ROOFING CORP,Construction,33125,Little Havana,Active
+49,SOSA LAW PLLC,Professional Services,33125,Little Havana,Active
+50,VANTAGEPOINT CONSULTING GROUP LLC,Professional Services,33125,Little Havana,Active
+51,BEST NATIONAL INSURANCE CORP,Professional Services,33125,Little Havana,Active
+52,USA LAW GROUP LLC,Professional Services,33125,Little Havana,Active
+53,THE LAW OFFICES OF DAX SICRE PLLC,Professional Services,33125,Little Havana,Active
+54,LUMIA RISK ROLUTIONS LLC,Professional Services,33125,Little Havana,Active
+55,TWO MINDS BRANDING CORP,Professional Services,33125,Little Havana,Active
+56,SICRE DAX C ESQ,Professional Services,33125,Little Havana,Active
+57,ESCAMBRAY LLC,Beauty & Personal Care,33125,Little Havana,Active
+58,1194 MIA CORP,Beauty & Personal Care,33125,Little Havana,Active
+59,ARIDANE LLC,Beauty & Personal Care,33125,Little Havana,Active
+60,TRAJAN 1630 LLC,Beauty & Personal Care,33125,Little Havana,Active
+61,PICA INVESTMENT INC,Beauty & Personal Care,33125,Little Havana,Active
+62,MONEX PROPERTIES LLC,Beauty & Personal Care,33125,Little Havana,Active
+63,EL 72 LLC,Beauty & Personal Care,33125,Little Havana,Active
+64,RENTAL PROPERTY INVESTORS INC,Beauty & Personal Care,33125,Little Havana,Active
+65,ESTETICA DIANA LUNA INC,Food & Beverage,33126,Westchester,Active
+66,ICONO STUDIO LLC,Food & Beverage,33126,Westchester,Active
+67,CHIPOTLE MEXICAN GRILL (STORE #3462),Food & Beverage,33126,Westchester,Active
+68,WELLNESS PRUDENTIAL LLC,Food & Beverage,33126,Westchester,Active
+69,DONDE MIGUE BARBERSHOP LLC,Food & Beverage,33126,Westchester,Active
+70,KM NAILS ART BY KARY LLC,Food & Beverage,33126,Westchester,Active
+71,USA PARTNERS & ASSOCIATES LLC,Food & Beverage,33126,Westchester,Active
+72,CHURROWORLD CO,Food & Beverage,33126,Westchester,Active
+73,LEON MEDICAL CENTERS LLC,Retail,33126,Westchester,Active
+74,AL ROUDAN GLOBAL INVESTMENT CORP,Retail,33126,Westchester,Active
+75,THE UPS STORE 6804,Retail,33126,Westchester,Active
+76,EL GAUCHITO RESTAURANT & BAKERY,Retail,33126,Westchester,Active
+77,THE SHOPPE INC,Retail,33126,Westchester,Active
+78,CHARLIES AUTO GLASS INSTALLERS OF MIAMI,Retail,33126,Westchester,Active
+79,FREEDOM SHOP CORP,Retail,33126,Westchester,Active
+80,D&H JEWELRY,Retail,33126,Westchester,Active
+81,UNITED MED SUPPLY MARKET INC,Real Estate,33126,Westchester,Active
+82,VELOCITY CAR RENTAL LLC,Real Estate,33126,Westchester,Active
+83,MULOD USA INC,Real Estate,33126,Westchester,Active
+84,AMATHEON ANIMAL HEALTH LLC,Real Estate,33126,Westchester,Active
+85,MSR DISTRIBUTIONS LLC,Real Estate,33126,Westchester,Active
+86,INTERNATIONAL ELECTRO MECHANICAL ENT INC,Real Estate,33126,Westchester,Active
+87,STATE STREET REALTY,Real Estate,33126,Westchester,Active
+88,INFINITE WINDOWS LLC,Real Estate,33126,Westchester,Active
+89,DR MANUEL J HERNANDEZ CLINICAL RESEARCH AND ASSOCIATES  INC,Healthcare,33126,Westchester,Active
+90,DOCUX SOLUTIONS LLC,Healthcare,33126,Westchester,Active
+91,FAMILY & FRIENDS HOME HEALTH LLC,Healthcare,33126,Westchester,Active
+92,PEREZ CASTRO JOSEFINA,Healthcare,33126,Westchester,Active
+93,PROFESSIONAL SOLUTIONS HOME HEALTH AGENCY INC,Healthcare,33126,Westchester,Active
+94,BRIGHT DAYS HOME HEALTH AGENCY LLC,Healthcare,33126,Westchester,Active
+95,HAPPY TIMES COMMUNITY CENTER INC,Healthcare,33126,Westchester,Active
+96,MEDI NURSE,Healthcare,33126,Westchester,Active
+97,YML CLEANING AND EVENT SERVICES LLC,Technology,33126,Westchester,Active
+98,RAMOS LUIS P PE,Technology,33126,Westchester,Active
+99,ACOSTA C ISABEL ARNP,Technology,33126,Westchester,Active
+100,LOPEZ ARMANDO,Technology,33126,Westchester,Active
+101,MED CARE CENTERS LLC,Technology,33126,Westchester,Active
+102,FUENTEFRIA SANDRA ANA APRN,Technology,33126,Westchester,Active
+103,TWO STAR TRAFFIC & SKILL TESTS PRACTICE CORP,Technology,33126,Westchester,Active
+104,ROSCK LLC,Technology,33126,Westchester,Active
+105,O B CONTRACTORS INC,Construction,33126,Westchester,Active
+106,JALLYS ELECTRIC SERVICE INC,Construction,33126,Westchester,Active
+107,CABINET INC,Construction,33126,Westchester,Active
+108,ERNEST RESIDENTIAL INC,Construction,33126,Westchester,Active
+109,DESIGN BUILD INTERAMERICAN INC,Construction,33126,Westchester,Active
+110,J STEPHENS CONSTRUCTION LLC,Construction,33126,Westchester,Active
+111,CAMPUS CONSTRUCTION GROUP INC,Construction,33126,Westchester,Active
+112,J & R ELECTRICAL CONTRACTOR CORP,Construction,33126,Westchester,Active
+113,PREFERENCE CONSULTING INC,Professional Services,33126,Westchester,Active
+114,ALLEYNE SEMONE SELETHA,Professional Services,33126,Westchester,Active
+115,MARLENE LEON RUBIDO PA,Professional Services,33126,Westchester,Active
+116,SEGUI CECILIA,Professional Services,33126,Westchester,Active
+117,RAMOS GABRIELA ANDREA ESQ,Professional Services,33126,Westchester,Active
+118,HICKS PORTER EBENFELD STEIN PA,Professional Services,33126,Westchester,Active
+119,SELECT PHYSICAL THERAPY,Professional Services,33126,Westchester,Active
+120,BALLADARES ALBERTO JOSE ESQ,Professional Services,33126,Westchester,Active
+121,DORAL INN & SUITES MIAMI AIRPORT SUITES,Beauty & Personal Care,33126,Westchester,Active
+122,ANTOINETTE ZSIRAI,Beauty & Personal Care,33126,Westchester,Active
+123,CRYSTAL COURT INVESTMENTS LLC,Beauty & Personal Care,33126,Westchester,Active
+124,MORLOTE MARCELINO R & NORMA L,Beauty & Personal Care,33126,Westchester,Active
+125,550 LEJEUNE LLC,Beauty & Personal Care,33126,Westchester,Active
+126,PLAZA CORONA,Beauty & Personal Care,33126,Westchester,Active
+127,SAFEGUARD SELF STORAGE,Beauty & Personal Care,33126,Westchester,Active
+128,MAVERICK FREIGHT LLC,Beauty & Personal Care,33126,Westchester,Active
+129,PARIPARI,Food & Beverage,33127,Wynwood,Active
+130,MY SUITE @ BEAUTY SQUARE,Food & Beverage,33127,Wynwood,Active
+131,NIKA SCALP & SKIN RITUAL LLC,Food & Beverage,33127,Wynwood,Active
+132,ALTER NATIVE RETAIL LLC,Food & Beverage,33127,Wynwood,Active
+133,BLEACH BEAUTY ADDICTION,Food & Beverage,33127,Wynwood,Active
+134,CONGLOMERADO RAMIREZ CRUZ LLC,Food & Beverage,33127,Wynwood,Active
+135,SALTY DONUT OPERATIONS LLC THE,Food & Beverage,33127,Wynwood,Active
+136,REAL GREAT BURGER,Food & Beverage,33127,Wynwood,Active
+137,SHOTS MIAMI,Retail,33127,Wynwood,Active
+138,MIAMI NAUTIQUE,Retail,33127,Wynwood,Active
+139,G'S LIQUOR INC,Retail,33127,Wynwood,Active
+140,WHOLESALE66 LLC,Retail,33127,Wynwood,Active
+141,A & M 44 SUNOCO INC,Retail,33127,Wynwood,Active
+142,MARATHON,Retail,33127,Wynwood,Active
+143,TOPOLOGIE LLC,Retail,33127,Wynwood,Active
+144,PEPE'S BODY SHOP INC,Retail,33127,Wynwood,Active
+145,SACRED TRADITIONS INC,Real Estate,33127,Wynwood,Active
+146,M & R TEMPORARY FENCE & BUILDING SUPPLY INC,Real Estate,33127,Wynwood,Active
+147,CITY ELECTRIC SUPPLY COMPANY,Real Estate,33127,Wynwood,Active
+148,ULTIMATE SPORTS INC,Real Estate,33127,Wynwood,Active
+149,WWWORLD MEDIA INC,Real Estate,33127,Wynwood,Active
+150,STUDIO 2440 LLC,Real Estate,33127,Wynwood,Active
+151,"ZANJANI TRADES & IMPORTS, LLC",Real Estate,33127,Wynwood,Active
+152,ANGUS STEAKS & RIBS LLC,Real Estate,33127,Wynwood,Active
+153,MLK RESEARCH INSTITUTE INC,Healthcare,33127,Wynwood,Active
+154,BANFIELD PET HOSPITAL #1412,Healthcare,33127,Wynwood,Active
+155,GROTTO,Healthcare,33127,Wynwood,Active
+156,DREAMCLOUD PSYCHIATRY,Healthcare,33127,Wynwood,Active
+157,HEALTHY BEHAVIOR COMMUNITY SERVICES INC.,Healthcare,33127,Wynwood,Active
+158,ST JOHN CLINIC MEDICAL CENTER INC,Healthcare,33127,Wynwood,Active
+159,CARDONA-GUZMAN JOSE MIGUEL MD,Healthcare,33127,Wynwood,Active
+160,GARNER EVE M MD,Healthcare,33127,Wynwood,Active
+161,SAUNDRA'S LEARNING ACADEMY INC,Technology,33127,Wynwood,Active
+162,FORECLOSURE FORENSICS LLC,Technology,33127,Wynwood,Active
+163,REPUBLIC OF MOVEMENT LLC,Technology,33127,Wynwood,Active
+164,MUSEUM OF GRAFFITI LLC,Technology,33127,Wynwood,Active
+165,INTRIGMA INC,Technology,33127,Wynwood,Active
+166,YI SONG SU CPA,Technology,33127,Wynwood,Active
+167,MOR LIANA V CPA,Technology,33127,Wynwood,Active
+168,RYAN DAVID J CPA,Technology,33127,Wynwood,Active
+169,"SMARTLIFE ELECTRIC, INC",Construction,33127,Wynwood,Active
+170,GLASS & MIRRORS SOARES SERVICES INC,Construction,33127,Wynwood,Active
+171,TRU GREEN CONSTRUCTION INC,Construction,33127,Wynwood,Active
+172,ADVANCE TECHNICAL CONSTRUCTION CO,Construction,33127,Wynwood,Active
+173,MERRICK INDUSTRIAL MANAGEMENT CORP,Construction,33127,Wynwood,Active
+174,ANKER BUILDERS,Construction,33127,Wynwood,Active
+175,SOUTH FLORIDA FOREMOST ROOFING AND WATERPROOFING SERVICES CORP,Construction,33127,Wynwood,Active
+176,SUNSHINE ONE CONSTRUCTION LLC,Construction,33127,Wynwood,Active
+177,HYDRA SCIENTIFIC LLC,Professional Services,33127,Wynwood,Active
+178,PARRAMORE RYAN VAN-BUREN,Professional Services,33127,Wynwood,Active
+179,AXS LAW GROUP PLLC,Professional Services,33127,Wynwood,Active
+180,STRACHAN JANIE,Professional Services,33127,Wynwood,Active
+181,LOWERCASE PLLC,Professional Services,33127,Wynwood,Active
+182,SAUNDERS NIKITA,Professional Services,33127,Wynwood,Active
+183,INTELLEGENT AI LLC,Professional Services,33127,Wynwood,Active
+184,CITISCAPES,Professional Services,33127,Wynwood,Active
+185,WYNWOOD INVESTMENTS GROUP LLC,Beauty & Personal Care,33127,Wynwood,Active
+186,345 INVESTMENTS LLC,Beauty & Personal Care,33127,Wynwood,Active
+187,731 16 PLEX LLC,Beauty & Personal Care,33127,Wynwood,Active
+188,CNE PROPERTIES LLC,Beauty & Personal Care,33127,Wynwood,Active
+189,JORGE GOMEZ &W BEATRICE,Beauty & Personal Care,33127,Wynwood,Active
+190,HENRY A URREA,Beauty & Personal Care,33127,Wynwood,Active
+191,3015 PARTNERS LLC,Beauty & Personal Care,33127,Wynwood,Active
+192,NEW ARENA SQUARE NO & SO LTD,Beauty & Personal Care,33127,Wynwood,Active
+193,NEW PITA SPA INC,Food & Beverage,33128,Downtown,Active
+194,PAYMENT ALLIANCE INTERNATIONAL INC,Food & Beverage,33128,Downtown,Active
+195,SBUX 3 MIAMI CENTRAL LLC,Food & Beverage,33128,Downtown,Active
+196,DA SPOT BABERSHOP LLC,Food & Beverage,33128,Downtown,Active
+197,CITY CIGAR LOUNGE,Food & Beverage,33128,Downtown,Active
+198,BREAKTHYME CAFE MDCH LLC,Food & Beverage,33128,Downtown,Active
+199,BLIND MONKEY CATERING,Food & Beverage,33128,Downtown,Active
+200,TAM TAM,Food & Beverage,33128,Downtown,Active
+201,FARMACIAS DR GOODPRICE,Retail,33128,Downtown,Active
+202,SOLID GOLD JEWELRY,Retail,33128,Downtown,Active
+203,EMNOVA MOTORCYCLE CORP,Retail,33128,Downtown,Active
+204,GIANT MOTORS,Retail,33128,Downtown,Active
+205,LATIN AMERICA DISCOUNT CORP,Retail,33128,Downtown,Active
+206,PROSPERO DISCOUNT INC,Retail,33128,Downtown,Active
+207,SJS TRADING INC,Retail,33128,Downtown,Active
+208,FASTSIGNS 175201,Retail,33128,Downtown,Active
+209,FS LAND PARCELS LLC,Real Estate,33128,Downtown,Active
+210,REDLAND INTERNATIONAL ORCHID FESTIVAL,Real Estate,33128,Downtown,Active
+211,FLAGLER BROKERAGE AND MANAGEMENT SERVICES LLC,Real Estate,33128,Downtown,Active
+212,FECI REALTY LLC,Real Estate,33128,Downtown,Active
+213,FECI COMPANY,Real Estate,33128,Downtown,Active
+214,SPEED AUTO PARTS,Real Estate,33128,Downtown,Active
+215,TRUIST ADVISORY SERVICES INC,Real Estate,33128,Downtown,Active
+216,BRIGHTLINE HOLDINGS LLC,Real Estate,33128,Downtown,Active
+217,KIDNEY PARTNERS LLC,Healthcare,33128,Downtown,Active
+218,ALPHA RECOVERY MIAMI,Healthcare,33128,Downtown,Active
+219,YIYA ACCOUNT 2022,Healthcare,33128,Downtown,Active
+220,POWER WELLNESS SPOT,Healthcare,33128,Downtown,Active
+221,"KIDNEYSPA AT LEON MEDICAL CENTER, LLC",Healthcare,33128,Downtown,Active
+222,APOLLO RENAL CENTER MIAMI LLC,Healthcare,33128,Downtown,Active
+223,KIDNEY SPA LLC,Healthcare,33128,Downtown,Active
+224,LINCOLN MARTI COMMUNITY AGENCY INC,Technology,33128,Downtown,Active
+225,BELLSOUTH TELECOMMUNICATIONS LLC,Technology,33128,Downtown,Active
+226,YWCA CAROL CENTER,Technology,33128,Downtown,Active
+227,PARAISO TROPICAL HOME SERVICES LLC,Technology,33128,Downtown,Active
+228,POWERHOUSE GYM MIAMI,Technology,33128,Downtown,Active
+229,MIS XCLUSIVE LLC,Technology,33128,Downtown,Active
+230,CITRUS HEALTH NETWORK INC,Technology,33128,Downtown,Active
+231,LOVING CARE RETIREMENT SERVICES INC,Technology,33128,Downtown,Active
+232,NW 637 LLC,Construction,33128,Downtown,Active
+233,ALL CITY ROOFING AND REPAIRS CORP,Construction,33128,Downtown,Active
+234,BLACKBIRD CONSTRUCTION LLC,Construction,33128,Downtown,Active
+235,EIC CONSULTING LLC,Construction,33128,Downtown,Active
+236,LABRE PLACE INC,Construction,33128,Downtown,Active
+237,FASTSIGNS 175201,Construction,33128,Downtown,Active
+238,WHITECASTLE PROPERTY MANAGEMENT LLC,Construction,33128,Downtown,Active
+239,GONZALEZ PEDRO ANTONIO,Professional Services,33128,Downtown,Active
+240,TRAJECTO SOLUTIONS LLC,Professional Services,33128,Downtown,Active
+241,FDG COUNTYLINE LLC,Professional Services,33128,Downtown,Active
+242,TODD C YODER PA,Professional Services,33128,Downtown,Active
+243,FENTON DARYL B ESQ,Professional Services,33128,Downtown,Active
+244,SOLEDAD RODRIGUEZ,Beauty & Personal Care,33128,Downtown,Active
+245,VC 1050 LLC,Beauty & Personal Care,33128,Downtown,Active
+246,1040 NW 4TH ST LLC,Beauty & Personal Care,33128,Downtown,Active
+247,PRISEM INVESTMENT INC,Beauty & Personal Care,33128,Downtown,Active
+248,BRICKELL WEST LIVING CORP,Beauty & Personal Care,33128,Downtown,Active
+249,ENRIQUE JIMENEZ TR,Beauty & Personal Care,33128,Downtown,Active
+250,RIVERVIEW AT MIAMI LLC,Beauty & Personal Care,33128,Downtown,Active
+251,858 NW 3RD ST LLC,Beauty & Personal Care,33128,Downtown,Active
+252,SILVER MIRROR BRICKELL LLC,Food & Beverage,33130,Brickell,Active
+253,OKEYDOKEY,Food & Beverage,33130,Brickell,Active
+254,ALFREDO'S UNISEX BEAUTY SALON INC,Food & Beverage,33130,Brickell,Active
+255,BEAUTY SALON & MORE INC,Food & Beverage,33130,Brickell,Active
+256,PUBLIX SUPERMARKETS 0581,Food & Beverage,33130,Brickell,Active
+257,BOLEYN STUDIO MIAMI LLC,Food & Beverage,33130,Brickell,Active
+258,SHAKE SHACK,Food & Beverage,33130,Brickell,Active
+259,CHIPOTLE MEXICAN GRILL (STORE #3510),Food & Beverage,33130,Brickell,Active
+260,6 TO 12 SUPERMARKET LLC,Retail,33130,Brickell,Active
+261,MARC JACOBS INTERNATIONAL LLC,Retail,33130,Brickell,Active
+262,VILEBREQUIN,Retail,33130,Brickell,Active
+263,12 AVENUE FLOWERS CORP,Retail,33130,Brickell,Active
+264,EPL DIAMOND,Retail,33130,Brickell,Active
+265,AMERICA FASHION II CORP,Retail,33130,Brickell,Active
+266,THE SHERWIN-WILLIAMS COMPANY,Retail,33130,Brickell,Active
+267,PINK GORILLA KAVA,Retail,33130,Brickell,Active
+268,IZY PRODUCTS LLC,Real Estate,33130,Brickell,Active
+269,ALEJO BETETA,Real Estate,33130,Brickell,Active
+270,JW REAL BROKERAGE GROUP LLC,Real Estate,33130,Brickell,Active
+271,YOUR FAVORITE CARS LLC,Real Estate,33130,Brickell,Active
+272,DOCSA CAPITAL MANAGEMENT INC,Real Estate,33130,Brickell,Active
+273,LAKE BLUE BRIDGE LLC,Real Estate,33130,Brickell,Active
+274,VANDAR INVESTMENTS LLC,Real Estate,33130,Brickell,Active
+275,WISDOM AND HOPE LLC,Real Estate,33130,Brickell,Active
+276,AOI ANESTHESIA PLLC,Healthcare,33130,Brickell,Active
+277,PHYSICIANS ASSOCIATES LLC,Healthcare,33130,Brickell,Active
+278,FAYIGA ADEBAYO O MD,Healthcare,33130,Brickell,Active
+279,CM HEALTHCARE SOLUTIONS INC,Healthcare,33130,Brickell,Active
+280,AXIS CARE LLC,Healthcare,33130,Brickell,Active
+281,ESPINAL ARTURO E,Healthcare,33130,Brickell,Active
+282,HUGO ROMEU MD,Healthcare,33130,Brickell,Active
+283,LITTLE HAVANA CARE CENTER INC,Healthcare,33130,Brickell,Active
+284,STARR INDEMNITY & LIABILITY COMPANY,Technology,33130,Brickell,Active
+285,CMX BRICKELL,Technology,33130,Brickell,Active
+286,TOTAL FORCE ALLIANCE LLC,Technology,33130,Brickell,Active
+287,REJUVE WELLNESS LLC,Technology,33130,Brickell,Active
+288,ABM PARKING SERVICES,Technology,33130,Brickell,Active
+289,BRICKELL MEDIA LLC,Technology,33130,Brickell,Active
+290,HEALTHY LITTLE HAVANA,Technology,33130,Brickell,Active
+291,PHASE LINE LEADERSHIP & CONSULTING LLC,Technology,33130,Brickell,Active
+292,URBANO CONSTRUCTION GROUP LLC,Construction,33130,Brickell,Active
+293,JH BLUE CONSTRUCTION INC,Construction,33130,Brickell,Active
+294,REGIONS COMMERCIAL ROOFING INC,Construction,33130,Brickell,Active
+295,POWERWISE LLC,Construction,33130,Brickell,Active
+296,RTS UNDERGROUND,Construction,33130,Brickell,Active
+297,HYCON INVESTMENTS LLC,Construction,33130,Brickell,Active
+298,FAIRBAIRN ELECTRIC LLC,Construction,33130,Brickell,Active
+299,PALMANOVA USA CORPORATION,Construction,33130,Brickell,Active
+300,THE LAW OFFICES OF SHAUN SPECTOR PLLC,Professional Services,33130,Brickell,Active
+301,FINESILVER AARON SCOTT ESQ,Professional Services,33130,Brickell,Active
+302,GANCEDO ALEJANDRA ESQ,Professional Services,33130,Brickell,Active
+303,SOFTNESS MELISSA IVY ESQ,Professional Services,33130,Brickell,Active
+304,MANGROVE LAW PLLC,Professional Services,33130,Brickell,Active
+305,EDE DOUGLAS ELIAS ESQ,Professional Services,33130,Brickell,Active
+306,PARRISH KEYONDRA ESQ,Professional Services,33130,Brickell,Active
+307,RAYA PARTNERS LLC,Professional Services,33130,Brickell,Active
+308,GDC MIAMI 2 LLC,Beauty & Personal Care,33130,Brickell,Active
+309,SOCARRAS MARIA T,Beauty & Personal Care,33130,Brickell,Active
+310,420 MIA CORP,Beauty & Personal Care,33130,Brickell,Active
+311,ALBEVA 620 LLC,Beauty & Personal Care,33130,Brickell,Active
+312,HORSEBIT HAVANA LLC,Beauty & Personal Care,33130,Brickell,Active
+313,420 SW 7TH AVE LLC,Beauty & Personal Care,33130,Brickell,Active
+314,871 SW 3 ST LLC,Beauty & Personal Care,33130,Brickell,Active
+315,ZS ROAD RUNNER LLC,Beauty & Personal Care,33130,Brickell,Active
+316,LA PETITE MAISON,Food & Beverage,33131,Brickell Key,Active
+317,YABAI,Food & Beverage,33131,Brickell Key,Active
+318,JUST SALAD STORE #48,Food & Beverage,33131,Brickell Key,Active
+319,CREMA GOURMET ESPRESSO BAR,Food & Beverage,33131,Brickell Key,Active
+320,DA TANG ZHEN WEI FANG,Food & Beverage,33131,Brickell Key,Active
+321,MY SPA @ INTERCONTINENTAL HOTEL MIAMI,Food & Beverage,33131,Brickell Key,Active
+322,STORE 87,Food & Beverage,33131,Brickell Key,Active
+323,THE COCO'S NAIL & SPA,Food & Beverage,33131,Brickell Key,Active
+324,BRASFORMA USA LLC,Retail,33131,Brickell Key,Active
+325,DEAD EYE DAVES LLC,Retail,33131,Brickell Key,Active
+326,FINO ELECTRONICS INC,Retail,33131,Brickell Key,Active
+327,YBSB INVESTMENTS CORP,Retail,33131,Brickell Key,Active
+328,MR TONY,Retail,33131,Brickell Key,Active
+329,SMOKE SHOP II,Retail,33131,Brickell Key,Active
+330,ROSS DRESS FOR LESS 2274,Retail,33131,Brickell Key,Active
+331,MET II HOTEL LLC,Retail,33131,Brickell Key,Active
+332,TEACHERS INSURANCE AND ANNUITY ASSOCIATION OF AMERICA,Real Estate,33131,Brickell Key,Active
+333,CLEARWATER CAPITAL GROUP INC,Real Estate,33131,Brickell Key,Active
+334,BULLTICK WEALTH MANAGEMENT LLC,Real Estate,33131,Brickell Key,Active
+335,EDGEWATER ASSOCIATES OF FLORIDA INC,Real Estate,33131,Brickell Key,Active
+336,ONE ELEVEN REAL ESTATE,Real Estate,33131,Brickell Key,Active
+337,VIA THE HIVE LLC,Real Estate,33131,Brickell Key,Active
+338,HQ REALTY INTERNATIONAL GROUP LLC,Real Estate,33131,Brickell Key,Active
+339,RICHARDS GEMS & JEWELRY,Real Estate,33131,Brickell Key,Active
+340,SPECTRUM BEHAVIOR CONSULTANTS LLC,Healthcare,33131,Brickell Key,Active
+341,ADERS LLC,Healthcare,33131,Brickell Key,Active
+342,"FLORIDA FAMILY CARE, INC.",Healthcare,33131,Brickell Key,Active
+343,REX KNIGHTS EXPRESS LLC,Healthcare,33131,Brickell Key,Active
+344,VIVID QI PLLC,Healthcare,33131,Brickell Key,Active
+345,RIGHT PATH BEHAVIORAL HEALTH SERVICES LLC,Healthcare,33131,Brickell Key,Active
+346,NINJA HEALTH LAB LLC,Healthcare,33131,Brickell Key,Active
+347,PASSARINI REGULATORY AFFAIRS OF AMERICA LLC,Healthcare,33131,Brickell Key,Active
+348,BRICKELL DIVERSIFIED LLC,Technology,33131,Brickell Key,Active
+349,TECHSBCN,Technology,33131,Brickell Key,Active
+350,FACT FINDERS NERDS XPRESS COLLABORATIVE LLC,Technology,33131,Brickell Key,Active
+351,SDSOL TECHNOLOGIES LLC,Technology,33131,Brickell Key,Active
+352,ALITZ HALLE ESQ,Technology,33131,Brickell Key,Active
+353,MY SPA @ INTERCONTINENTAL HOTEL MIAMI,Technology,33131,Brickell Key,Active
+354,RCTEK ARCHITECTURE LLC,Technology,33131,Brickell Key,Active
+355,INSURANCE TECHNOLOGY US LLC,Technology,33131,Brickell Key,Active
+356,APOLLO ELECTRIC AI LLC,Construction,33131,Brickell Key,Active
+357,GC BUILDERS INTERNATIONAL LLC,Construction,33131,Brickell Key,Active
+358,PLATINUM CONSTRUCTION SERVICES INC,Construction,33131,Brickell Key,Active
+359,KOQIO INC,Construction,33131,Brickell Key,Active
+360,CH CONSTRUCTION GROUP CORP,Construction,33131,Brickell Key,Active
+361,MORRISON USA LLC,Construction,33131,Brickell Key,Active
+362,REINCOFL CORP,Construction,33131,Brickell Key,Active
+363,STAMBUL CONSTRUCTION LLC,Construction,33131,Brickell Key,Active
+364,BRACY ERIC M ESQ,Professional Services,33131,Brickell Key,Active
+365,CASES & LACAMBRA INC,Professional Services,33131,Brickell Key,Active
+366,LAW OFFICES OF ELLEN NOVOSELETSKY PA,Professional Services,33131,Brickell Key,Active
+367,COLGROVE MATTHEW ESQ,Professional Services,33131,Brickell Key,Active
+368,SHECHTMAN BRENNAN JEWEL ESQ,Professional Services,33131,Brickell Key,Active
+369,NALDJIEFF AMANDA MARIE ESQ,Professional Services,33131,Brickell Key,Active
+370,HILL SHAUNDA THERESE ESQ,Professional Services,33131,Brickell Key,Active
+371,ZHONG LEIGHTON ESQ,Professional Services,33131,Brickell Key,Active
+372,CITIZENM HOTELS,Beauty & Personal Care,33131,Brickell Key,Active
+373,FSM HOTEL OWNER LLC,Beauty & Personal Care,33131,Brickell Key,Active
+374,SENYAR MIAMI HOLDING LLC,Beauty & Personal Care,33131,Brickell Key,Active
+375,INTERCONTINENTAL HOTEL MIAMI,Beauty & Personal Care,33131,Brickell Key,Active
+376,MANDARIN ORIENTAL MIAMI,Beauty & Personal Care,33131,Brickell Key,Active
+377,TWJ OFFICE LLC,Beauty & Personal Care,33131,Brickell Key,Active
+378,SPACES,Beauty & Personal Care,33131,Brickell Key,Active
+379,C&A SENECA CONSTRUCTION LLC,Beauty & Personal Care,33131,Brickell Key,Active
+380,BLACK DIAMOND BARBER SHOP & BOUTIQUE,Food & Beverage,33132,Edgewater,Active
+381,LA REAL BAR,Food & Beverage,33132,Edgewater,Active
+382,LEYDIS NAILS INC,Food & Beverage,33132,Edgewater,Active
+383,STOVE TROVE LLC,Food & Beverage,33132,Edgewater,Active
+384,FBROS LLC,Food & Beverage,33132,Edgewater,Active
+385,STUDIO D BY PAOLO SALON,Food & Beverage,33132,Edgewater,Active
+386,THE ARTISAN CREPERIE,Food & Beverage,33132,Edgewater,Active
+387,MAPLE & ASH MIAMI LLC,Food & Beverage,33132,Edgewater,Active
+388,CVS #10632,Retail,33132,Edgewater,Active
+389,ELECTRIC AVENUE BOUTIQUE,Retail,33132,Edgewater,Active
+390,TORRES & SONS JEWELERS LLC,Retail,33132,Edgewater,Active
+391,DKN GEMS AND JEWELRY,Retail,33132,Edgewater,Active
+392,DIAMONDS R,Retail,33132,Edgewater,Active
+393,SMILE NOW WINE LATER,Retail,33132,Edgewater,Active
+394,GOLD 7 OF MIAMI LLC,Retail,33132,Edgewater,Active
+395,XTRA LIQUORS & WINES,Retail,33132,Edgewater,Active
+396,MBM USA LLC,Real Estate,33132,Edgewater,Active
+397,NIKOBELLA LLC,Real Estate,33132,Edgewater,Active
+398,LVMH FRAGRANCE BRANDS WHD INC,Real Estate,33132,Edgewater,Active
+399,SEA HAWK,Real Estate,33132,Edgewater,Active
+400,DKN GEMS AND JEWELRY,Real Estate,33132,Edgewater,Active
+401,PMG DOWNTOWN MF DEVELOPERS LLC,Real Estate,33132,Edgewater,Active
+402,N C F FLORIDA CORP,Real Estate,33132,Edgewater,Active
+403,STYLE JEWERLY INC,Real Estate,33132,Edgewater,Active
+404,VITA RECOVERY,Healthcare,33132,Edgewater,Active
+405,SARO OLIVA RICARDO MD,Healthcare,33132,Edgewater,Active
+406,"SYNERGY MEDICAL COLLECTIVE, PA",Healthcare,33132,Edgewater,Active
+407,REFINED VIDA,Healthcare,33132,Edgewater,Active
+408,JESUS B MENENDEZ-RIVERA MD PA,Healthcare,33132,Edgewater,Active
+409,BIOREFERENCE LABORATORY INC,Healthcare,33132,Edgewater,Active
+410,VISTNES MICHAEL D MD,Healthcare,33132,Edgewater,Active
+411,RAW FIT MIAMI LLC,Healthcare,33132,Edgewater,Active
+412,GLOBAL CROSSING TELECOMMUNICATION INC,Technology,33132,Edgewater,Active
+413,CITY CROSSFIT LLC,Technology,33132,Edgewater,Active
+414,BKEFF LLC,Technology,33132,Edgewater,Active
+415,"FLIXBUS, INC",Technology,33132,Edgewater,Active
+416,INSIGHT DESIGN INC,Technology,33132,Edgewater,Active
+417,AMERICAN AIRLINES ARENA,Technology,33132,Edgewater,Active
+418,CHALLENGE ISLAND MIAMI,Technology,33132,Edgewater,Active
+419,SIXTH STREET MIAMI PARTNERS LLC,Technology,33132,Edgewater,Active
+420,TI CONTRACTORS LLC,Construction,33132,Edgewater,Active
+421,HYB CONSTRUCTION LLC,Construction,33132,Edgewater,Active
+422,S & S PAINT AND CLEANING INC,Construction,33132,Edgewater,Active
+423,ATLANTIC COAST DRILLING INC,Construction,33132,Edgewater,Active
+424,ACTION PAINTING SERVICES INC,Construction,33132,Edgewater,Active
+425,SOUTHERN VERTICAL CONSTRUCTION LLC,Construction,33132,Edgewater,Active
+426,JACA BROTHERS ROOFING CO INC,Construction,33132,Edgewater,Active
+427,SPHEREA LLC,Construction,33132,Edgewater,Active
+428,EVERVEIL LLC,Professional Services,33132,Edgewater,Active
+429,MINSKER LAW PLLC,Professional Services,33132,Edgewater,Active
+430,RTM CONSULTING INC,Professional Services,33132,Edgewater,Active
+431,REYNOLDS RYON,Professional Services,33132,Edgewater,Active
+432,HAZOURI DAVID R ESQ,Professional Services,33132,Edgewater,Active
+433,FRANCES DLG LAW PA,Professional Services,33132,Edgewater,Active
+434,FIRST GLOBAL ADJUSTERS LLC,Professional Services,33132,Edgewater,Active
+435,KIDNEYCOSMOS LLC,Professional Services,33132,Edgewater,Active
+436,CLARION INN AND SUITES MIAMI AIRPORT,Beauty & Personal Care,33132,Edgewater,Active
+437,RESORTS WORLD OMNI LLC,Beauty & Personal Care,33132,Edgewater,Active
+438,FACTORY GROUP LTD,Beauty & Personal Care,33132,Edgewater,Active
+439,146 BISCAYNE OWNER LLC,Beauty & Personal Care,33132,Edgewater,Active
+440,PARADISE PARKING SYSTEMS @ LAUREL,Beauty & Personal Care,33132,Edgewater,Active
+441,ESPINOSA ENTERPRIZES LLC,Beauty & Personal Care,33132,Edgewater,Active
+442,CLARION INN AND SUITES MIAMI AIRPORT,Beauty & Personal Care,33132,Edgewater,Active
+443,GALE MIAMI HOTEL AND RESIDENCES,Beauty & Personal Care,33132,Edgewater,Active
+444,RYBALCHENKO GALINA,Food & Beverage,33133,Coconut Grove,Active
+445,MAE'S ROOM / DRINKING PIG/ CHUGGIES,Food & Beverage,33133,Coconut Grove,Active
+446,LEON PETROLEUM LLC,Food & Beverage,33133,Coconut Grove,Active
+447,PLACITA BAR & RESTAURANT,Food & Beverage,33133,Coconut Grove,Active
+448,SHORE TO DOOR FISH MARKET LLC,Food & Beverage,33133,Coconut Grove,Active
+449,REDFARM,Food & Beverage,33133,Coconut Grove,Active
+450,THE SPOT BARBERSHOP COCOWALK LLC,Food & Beverage,33133,Coconut Grove,Active
+451,SUSHI GARAGE COCOWALK,Food & Beverage,33133,Coconut Grove,Active
+452,STARBUCKS COFFEE (STORE #52054),Retail,33133,Coconut Grove,Active
+453,TORMAC CORP DBA GALIANO SUPERMARKET,Retail,33133,Coconut Grove,Active
+454,VS INVESTMENT GROUP LLC,Retail,33133,Coconut Grove,Active
+455,T MOBILE LEASING LLC,Retail,33133,Coconut Grove,Active
+456,BLACK SHEEP COFFEE,Retail,33133,Coconut Grove,Active
+457,SPRINHAUS LLC,Retail,33133,Coconut Grove,Active
+458,WALGREENS 10900,Retail,33133,Coconut Grove,Active
+459,EUROPANN,Retail,33133,Coconut Grove,Active
+460,THE PADRON GROUP LLC,Real Estate,33133,Coconut Grove,Active
+461,SANTAS GARDEN,Real Estate,33133,Coconut Grove,Active
+462,LORIENT CAPITAL MANAGEMENT LLC,Real Estate,33133,Coconut Grove,Active
+463,BLUE SPACE GROUP CO,Real Estate,33133,Coconut Grove,Active
+464,SHAKLEE CORPORATION,Real Estate,33133,Coconut Grove,Active
+465,SG HOLDINGS LLC,Real Estate,33133,Coconut Grove,Active
+466,ISA GROUP CORP,Real Estate,33133,Coconut Grove,Active
+467,YES BLUEPRINTS & COURIER SERVICES INC,Real Estate,33133,Coconut Grove,Active
+468,CORE CONCIERGE HEALTH & WELLNESS LLC,Healthcare,33133,Coconut Grove,Active
+469,GOODVETS,Healthcare,33133,Coconut Grove,Active
+470,MERCKEL BRYAN MD,Healthcare,33133,Coconut Grove,Active
+471,PATEL HEAD AND NECK SURGERY PA,Healthcare,33133,Coconut Grove,Active
+472,MARTINEZ BEATRIZ,Healthcare,33133,Coconut Grove,Active
+473,COWAN HEATHER APRN,Healthcare,33133,Coconut Grove,Active
+474,RAMIREZ DANIEL MD,Healthcare,33133,Coconut Grove,Active
+475,CORAL GABLES HOSPITAL,Healthcare,33133,Coconut Grove,Active
+476,WETHINGTON ZACHARY R,Technology,33133,Coconut Grove,Active
+477,BALLI GIANNA M ESQ,Technology,33133,Coconut Grove,Active
+478,3140 GRAND LLC,Technology,33133,Coconut Grove,Active
+479,BELIEVERS OF AUTHORITY MINISTRIES INC,Technology,33133,Coconut Grove,Active
+480,CODE FREEZE LABS LLC,Technology,33133,Coconut Grove,Active
+481,SAFCO SYSTEMS INC,Technology,33133,Coconut Grove,Active
+482,SOTERIA PROTECTION LLC,Technology,33133,Coconut Grove,Active
+483,VILLA MARGO 4 INC,Technology,33133,Coconut Grove,Active
+484,GOLDIN SOLAR LLC,Construction,33133,Coconut Grove,Active
+485,TERRA CONSTRUCTION MANAGEMENT LLC,Construction,33133,Coconut Grove,Active
+486,RODRIGUEZ CONSTRUCTION GROUP LLC,Construction,33133,Coconut Grove,Active
+487,REISINGER RESIDENTIAL CONTRACTORS,Construction,33133,Coconut Grove,Active
+488,BETANCOURT CONSTRUCTION & ASSOCIATES LLC,Construction,33133,Coconut Grove,Active
+489,EKA,Construction,33133,Coconut Grove,Active
+490,AGM CONTRACTORS FL LLC,Construction,33133,Coconut Grove,Active
+491,LISDERAM USA INC,Construction,33133,Coconut Grove,Active
+492,LOGAN LAW OFFICE PA,Professional Services,33133,Coconut Grove,Active
+493,MAHAFFEY LEGAL PLLC,Professional Services,33133,Coconut Grove,Active
+494,SAGHI S MADJDI,Professional Services,33133,Coconut Grove,Active
+495,THE ARROWAY GROUP LLC,Professional Services,33133,Coconut Grove,Active
+496,V2 GLOBAL INC,Professional Services,33133,Coconut Grove,Active
+497,FRANCIA CABRAL LAW PLLC,Professional Services,33133,Coconut Grove,Active
+498,ALVAREZ FELTMAN DA SILVA COSTA PLLC,Professional Services,33133,Coconut Grove,Active
+499,CITY PERMIT,Professional Services,33133,Coconut Grove,Active
+500,EDGEWATER FIFTY ONE INC,Beauty & Personal Care,33133,Coconut Grove,Active
+501,ALINA ALFONSO,Beauty & Personal Care,33133,Coconut Grove,Active
+502,CGRO INVESTMENT LLC,Beauty & Personal Care,33133,Coconut Grove,Active
+503,MIGDAL OZ FUND LLC,Beauty & Personal Care,33133,Coconut Grove,Active
+504,WEST TRADE REALTY LLC,Beauty & Personal Care,33133,Coconut Grove,Active
+505,SILVERBLUFF GROUP LLC,Beauty & Personal Care,33133,Coconut Grove,Active
+506,MAYFAIR HOTEL AND SPA,Beauty & Personal Care,33133,Coconut Grove,Active
+507,STANLEYS DAY AVENUE LLC,Beauty & Personal Care,33133,Coconut Grove,Active
+508,SKIN PLUS CORP,Food & Beverage,33134,Coral Gables,Active
+509,MIKA,Food & Beverage,33134,Coral Gables,Active
+510,PASCI ANTONELLO SALON,Food & Beverage,33134,Coral Gables,Active
+511,MILY FASHION & BEAUTY SALON,Food & Beverage,33134,Coral Gables,Active
+512,MONET COIFFURE INC,Food & Beverage,33134,Coral Gables,Active
+513,TOUCH BY EDWARD,Food & Beverage,33134,Coral Gables,Active
+514,EATING HOUSE,Food & Beverage,33134,Coral Gables,Active
+515,MARBRITS AESTHETIC,Food & Beverage,33134,Coral Gables,Active
+516,YORK JEWELRY SALES LLC,Retail,33134,Coral Gables,Active
+517,LIBERTO INC,Retail,33134,Coral Gables,Active
+518,7 ELEVEN #10535A,Retail,33134,Coral Gables,Active
+519,ALEJANDRIA FLOWER ART LLC,Retail,33134,Coral Gables,Active
+520,DIAMOND BANC HOLDINGS LLC,Retail,33134,Coral Gables,Active
+521,SCAVOLINI STORE MIAMI,Retail,33134,Coral Gables,Active
+522,POLESTAR MIAMI,Retail,33134,Coral Gables,Active
+523,LUXURY RABBIT LLC,Retail,33134,Coral Gables,Active
+524,CARDINA REAL ESTATE LLC,Real Estate,33134,Coral Gables,Active
+525,"ANDERSON REAL ESTATE GROUP, LLC",Real Estate,33134,Coral Gables,Active
+526,MENZ CORP,Real Estate,33134,Coral Gables,Active
+527,PREMIER ELITE SOLUTIONS INC 07,Real Estate,33134,Coral Gables,Active
+528,IRASTORZA ANIBAL,Real Estate,33134,Coral Gables,Active
+529,JESS BEAUTY PRODUCTS LLC,Real Estate,33134,Coral Gables,Active
+530,ART BLUR HOLDINGS LLC,Real Estate,33134,Coral Gables,Active
+531,HERNANDEZ CONSUELO C,Real Estate,33134,Coral Gables,Active
+532,FLORIDA RENAL CENTER,Healthcare,33134,Coral Gables,Active
+533,GHERSI MARCELO M MD,Healthcare,33134,Coral Gables,Active
+534,DE LA PORTILLA MARIANELA MD,Healthcare,33134,Coral Gables,Active
+535,TIVOLI YVETTE ARLENE OS,Healthcare,33134,Coral Gables,Active
+536,CAVA ROBERT CHARLES MD,Healthcare,33134,Coral Gables,Active
+537,MERCADE FERNANDA L MD,Healthcare,33134,Coral Gables,Active
+538,AGILE HOME CARE LLC,Healthcare,33134,Coral Gables,Active
+539,BERAJA MEDICAL INSTITUTE INC,Healthcare,33134,Coral Gables,Active
+540,MENENDEZ NESTOR E ESQ,Technology,33134,Coral Gables,Active
+541,FLIGHT ATTENDANT MEDICAL RESEARCH INSTITUTE INC,Technology,33134,Coral Gables,Active
+542,LAZ FLORIDA PARKING LLC,Technology,33134,Coral Gables,Active
+543,SCORING CLUB LLC,Technology,33134,Coral Gables,Active
+544,BLITSTEIN PETER,Technology,33134,Coral Gables,Active
+545,PONEMUS INC,Technology,33134,Coral Gables,Active
+546,DOUBLE PARK LLC,Technology,33134,Coral Gables,Active
+547,FIFA WORLD CUP 2026 MIAMI HOST COMMITTEE,Technology,33134,Coral Gables,Active
+548,ALEJANDRO S WOOD FLOORS LLC,Construction,33134,Coral Gables,Active
+549,BRICKLESS CONSTRUCTION CORP,Construction,33134,Coral Gables,Active
+550,GARRIDO WOOD FLOORS LLC,Construction,33134,Coral Gables,Active
+551,VICO CONTRACTORS INC,Construction,33134,Coral Gables,Active
+552,BLUE LIGHTING ELECTRICAL SERVICES INC,Construction,33134,Coral Gables,Active
+553,FLORIDA CONSTRUCTION & ENGINEERING INC,Construction,33134,Coral Gables,Active
+554,HABIBCO DESIGN LLC,Construction,33134,Coral Gables,Active
+555,CETOUTE DESIGN GROUP LLC,Construction,33134,Coral Gables,Active
+556,FUENTES JEANNE ESQ,Professional Services,33134,Coral Gables,Active
+557,MORO MATTHEW J PE,Professional Services,33134,Coral Gables,Active
+558,LILLIAN M ARANGO PA,Professional Services,33134,Coral Gables,Active
+559,MICHAEL D EHRENSTEIN PLLC,Professional Services,33134,Coral Gables,Active
+560,FERNANDEZ LEONOR CPA,Professional Services,33134,Coral Gables,Active
+561,GRADY COLLEEN M ESQ,Professional Services,33134,Coral Gables,Active
+562,RODRIGUEZ LAURA ESQ,Professional Services,33134,Coral Gables,Active
+563,MV FUNDING FINANCIAL SERVICES INC,Professional Services,33134,Coral Gables,Active
+564,SIDONIA 110 LLC,Beauty & Personal Care,33134,Coral Gables,Active
+565,MALIBU HOTEL,Beauty & Personal Care,33134,Coral Gables,Active
+566,GRILLAS ASSOCIATES INC,Beauty & Personal Care,33134,Coral Gables,Active
+567,HOTEL PLACE ST MICHEL,Beauty & Personal Care,33134,Coral Gables,Active
+568,ENVIJA INC,Beauty & Personal Care,33134,Coral Gables,Active
+569,MIAMI FOUR PROPERTIES LTD,Beauty & Personal Care,33134,Coral Gables,Active
+570,RGBS LLC,Beauty & Personal Care,33134,Coral Gables,Active
+571,BILTMORE HOTEL MEETING ROOMS,Beauty & Personal Care,33134,Coral Gables,Active
+572,GLOSSLAB MIDTOWN LLC,Food & Beverage,33137,Design District,Active
+573,ZOI CAFE,Food & Beverage,33137,Design District,Active
+574,PALO QUEMAO,Food & Beverage,33137,Design District,Active
+575,OMNI NAILS AND LASH LOUNGE,Food & Beverage,33137,Design District,Active
+576,SADELLE'S @ KITH MIAMI DESIGN DISTRICT,Food & Beverage,33137,Design District,Active
+577,ANGIES EPICUREAN,Food & Beverage,33137,Design District,Active
+578,PUBLIX SUPERMARKETS 0714,Food & Beverage,33137,Design District,Active
+579,ZZ'S SUSHI BAR,Food & Beverage,33137,Design District,Active
+580,AMERICASH PAWN SHOP INC,Retail,33137,Design District,Active
+581,ALEXANDER MCQUEEN TRADING AMERICA INC,Retail,33137,Design District,Active
+582,MYRTHOS BEAUTY SALON,Retail,33137,Design District,Active
+583,A1A LOG CABIN ENTERPRISES LLC,Retail,33137,Design District,Active
+584,FRESKO MARKET LLC,Retail,33137,Design District,Active
+585,ASIAN MART MIAMI INC,Retail,33137,Design District,Active
+586,GREENG LIFESTYLE LLC,Retail,33137,Design District,Active
+587,BIGFACE COFFEE LLC,Retail,33137,Design District,Active
+588,BLANCO FRANK A,Real Estate,33137,Design District,Active
+589,NEW FASHION LLC,Real Estate,33137,Design District,Active
+590,241 NW 17 STREET LLC,Real Estate,33137,Design District,Active
+591,CONSORTIUM WINE AND SPIRITS DISTRIBUTOR LLC,Real Estate,33137,Design District,Active
+592,CARDINAL DEVELOPMENT CORP,Real Estate,33137,Design District,Active
+593,PARK AVE NUMISMATICS,Real Estate,33137,Design District,Active
+594,SETBETTER LLC,Real Estate,33137,Design District,Active
+595,DOUGLAS ELLIMAN INC.,Real Estate,33137,Design District,Active
+596,RANDY LINDGREN AESTHETIC REJUVENATION LLC,Healthcare,33137,Design District,Active
+597,MELISSA JACKSON MD PA,Healthcare,33137,Design District,Active
+598,MONACO MEDICAL SPA LLC,Healthcare,33137,Design District,Active
+599,CARTER ALICIA R MD,Healthcare,33137,Design District,Active
+600,BISCAYNE VETERINARY CENTER,Healthcare,33137,Design District,Active
+601,VIRTUAL PET CARE LLC,Healthcare,33137,Design District,Active
+602,GLOW VITA MEDSPA EDGEWATER LLC,Healthcare,33137,Design District,Active
+603,VITA SQUAD,Healthcare,33137,Design District,Active
+604,ALAGYMNASTICS INC,Technology,33137,Design District,Active
+605,MAISON DOMOTIQUE LLC,Technology,33137,Design District,Active
+606,UNIVERSAL PARKING & TRANSPORTATION LLC,Technology,33137,Design District,Active
+607,CARE RESOURCE,Technology,33137,Design District,Active
+608,MAVEN MINDS INC,Technology,33137,Design District,Active
+609,GREATER MIAMI JEWISH FEDERATION INC,Technology,33137,Design District,Active
+610,AIRLAB HOLDINGS LLC,Technology,33137,Design District,Active
+611,BANYAN HEALTH SYSTEMS INC,Technology,33137,Design District,Active
+612,FJM STRUCTURES FL LLC,Construction,33137,Design District,Active
+613,BESSARD ROOFING LLC,Construction,33137,Design District,Active
+614,VISOUSA INC,Construction,33137,Design District,Active
+615,LOCAL AC LLC,Construction,33137,Design District,Active
+616,AUTIE & PERDOMO LLC,Construction,33137,Design District,Active
+617,PLAZA HOMES,Construction,33137,Design District,Active
+618,V INC,Construction,33137,Design District,Active
+619,HAUS,Construction,33137,Design District,Active
+620,GOLDENBERG PA,Professional Services,33137,Design District,Active
+621,DENALI MANAGEMENT LLC,Professional Services,33137,Design District,Active
+622,THOMPSON CHARLES S ESQ,Professional Services,33137,Design District,Active
+623,CRUISE MANAGEMENT INTERNATIONAL INC,Professional Services,33137,Design District,Active
+624,MOHAMMAD ALSHANAWANI,Professional Services,33137,Design District,Active
+625,EL3 INCREASE LLC,Professional Services,33137,Design District,Active
+626,SERFATY LAW PA,Professional Services,33137,Design District,Active
+627,FR LAW FIRM PLLC,Professional Services,33137,Design District,Active
+628,5615 LLC,Beauty & Personal Care,33137,Design District,Active
+629,UES PARTNERS LLC,Beauty & Personal Care,33137,Design District,Active
+630,CHYNCES 295 LLC,Beauty & Personal Care,33137,Design District,Active
+631,CARLS EL PADRE MOTEL INC,Beauty & Personal Care,33137,Design District,Active
+632,6717 TUSCANY LLC,Beauty & Personal Care,33137,Design District,Active
+633,PR INVESTMENTS USA LLC,Beauty & Personal Care,33137,Design District,Active
+634,25 PLAZA CORP,Beauty & Personal Care,33137,Design District,Active
+635,PATY YOUNG LLC,Beauty & Personal Care,33137,Design District,Active
+636,THE GOODTIME HOTEL,Food & Beverage,33139,South Beach,Active
+637,THE WANTED BARBER LLC,Food & Beverage,33139,South Beach,Active
+638,MARTINEZ ALEJANDRA A,Food & Beverage,33139,South Beach,Active
+639,SOBE ICE KING LLC,Food & Beverage,33139,South Beach,Active
+640,ECO BARBERSHOP,Food & Beverage,33139,South Beach,Active
+641,SUSHI GARAGE LLC,Food & Beverage,33139,South Beach,Active
+642,STUDIO 3D BROWS FACE & BODY,Food & Beverage,33139,South Beach,Active
+643,CRESCENT CITY CONNECTION,Food & Beverage,33139,South Beach,Active
+644,ZERGA SHOES LLC,Retail,33139,South Beach,Active
+645,CROCS RETAIL LLC,Retail,33139,South Beach,Active
+646,MADEWELL INC,Retail,33139,South Beach,Active
+647,STEVEN MADDEN RETAIL INC,Retail,33139,South Beach,Active
+648,CB2,Retail,33139,South Beach,Active
+649,SOBE LIQUORS,Retail,33139,South Beach,Active
+650,ALTON ROAD BAYWASH,Retail,33139,South Beach,Active
+651,DECO DRIVE CIGARS EAST INC,Retail,33139,South Beach,Active
+652,KML BRAVIS LLC,Real Estate,33139,South Beach,Active
+653,BISCAYNE BAY PADDLEBOARDS AND KAYAKS LLC,Real Estate,33139,South Beach,Active
+654,STACK TRANSPORT LLC,Real Estate,33139,South Beach,Active
+655,BRODY BENJAMIN,Real Estate,33139,South Beach,Active
+656,BOUCHER BROTHERS MANAGEMENT INC,Real Estate,33139,South Beach,Active
+657,BLOKHAUS REAL ESTATE INVESTMENTS INC,Real Estate,33139,South Beach,Active
+658,LNR PARTNERS LLC,Real Estate,33139,South Beach,Active
+659,BOUYAH WATER SPORTS SOBE LLC,Real Estate,33139,South Beach,Active
+660,SUNBURN CANNABIS,Healthcare,33139,South Beach,Active
+661,BAPTIST HEALTH ENDOSCOPY CENTER AT MB,Healthcare,33139,South Beach,Active
+662,BAPTIST HEALTH PHYSICAL THERAPY & REHABILITATION MIAMI BEACH,Healthcare,33139,South Beach,Active
+663,QUEST DIAGNOSTICS CLINICAL LABORATORIES INC,Healthcare,33139,South Beach,Active
+664,SANA SANA CLINIC,Healthcare,33139,South Beach,Active
+665,MIAMI BEACH ANIMAL WELLNESS AND SPECIALTY CENTER,Healthcare,33139,South Beach,Active
+666,BAPTIST HEALTH MED GRP PHYS LLC,Healthcare,33139,South Beach,Active
+667,FEINBERG HAYDEN MH,Healthcare,33139,South Beach,Active
+668,MARINE DESIGN DYNAMICS FL LLC,Technology,33139,South Beach,Active
+669,MIAMI CITY BALLET INC,Technology,33139,South Beach,Active
+670,URBINT INC,Technology,33139,South Beach,Active
+671,FLAMINGO SOUTH BEACH ATHELETIC CLUB,Technology,33139,South Beach,Active
+672,URBIN MIAMI BEACH OWNER LLC,Technology,33139,South Beach,Active
+673,EC MIAMI INC,Technology,33139,South Beach,Active
+674,LINCOLN MARTI COMMUNITY AGENCY INC,Technology,33139,South Beach,Active
+675,KO SOBE LLC,Technology,33139,South Beach,Active
+676,ILC DESIGN AND DEVELOPMENT INC,Construction,33139,South Beach,Active
+677,SOUTHERN TECHNICAL SUPPORT INC,Construction,33139,South Beach,Active
+678,MONTAM CONSTRUCTION GROUP INC.,Construction,33139,South Beach,Active
+679,BOSCH CONSTRUCTION LLC,Construction,33139,South Beach,Active
+680,D2V2 PAINTING LLC,Construction,33139,South Beach,Active
+681,A & S CONSTRUCTION AND MANAGEMENT INC,Construction,33139,South Beach,Active
+682,ICG ICON CONSTRUCTION GROUP LLC,Construction,33139,South Beach,Active
+683,HOFFMAN DESIGN AND CONSTRUCTION LLC,Construction,33139,South Beach,Active
+684,BEGIN LAW PLLC,Professional Services,33139,South Beach,Active
+685,PRIME LONGEVITY LLC,Professional Services,33139,South Beach,Active
+686,DELUXE COMPANIES INCORPORATED,Professional Services,33139,South Beach,Active
+687,BIZ & STYLE DNA INC,Professional Services,33139,South Beach,Active
+688,BARBOSA LEGAL,Professional Services,33139,South Beach,Active
+689,MARIA GENTILE LAW PA,Professional Services,33139,South Beach,Active
+690,ROCK LAW PA,Professional Services,33139,South Beach,Active
+691,SATOU LLC,Professional Services,33139,South Beach,Active
+692,1300 COLLINS LLC,Beauty & Personal Care,33139,South Beach,Active
+693,PLINIO VELANDIA LLC,Beauty & Personal Care,33139,South Beach,Active
+694,UMA HOUSE BY YURBBAN SOUTH BEACH,Beauty & Personal Care,33139,South Beach,Active
+695,1425 COLLINS AVE LLC,Beauty & Personal Care,33139,South Beach,Active
+696,OCEAN LEPAGE LLC,Beauty & Personal Care,33139,South Beach,Active
+697,BASKIN APTS,Beauty & Personal Care,33139,South Beach,Active
+698,THE UPPER DECK  LLC,Beauty & Personal Care,33139,South Beach,Active
+699,HILL MANOR APT,Beauty & Personal Care,33139,South Beach,Active
+700,FEFIS BEAUTY SALON INC,Food & Beverage,33142,Allapattah,Active
+701,CIRUJANO BARBERSHOP LLC,Food & Beverage,33142,Allapattah,Active
+702,3D DIVA DELICIOUS DESSERTS LIMITED LIABILITY COMPANY,Food & Beverage,33142,Allapattah,Active
+703,MASTERS BARBERSHOP,Food & Beverage,33142,Allapattah,Active
+704,D ELEGANT UNISEX CORP,Food & Beverage,33142,Allapattah,Active
+705,DARINA SPA,Food & Beverage,33142,Allapattah,Active
+706,ILEANAS BEAUTY & BARBER SHOP INC,Food & Beverage,33142,Allapattah,Active
+707,JOHNS BARBER SHOP,Food & Beverage,33142,Allapattah,Active
+708,LAFLICH AUTO SALE LLC,Retail,33142,Allapattah,Active
+709,J J R ENTERPRISES INC,Retail,33142,Allapattah,Active
+710,SHINE,Retail,33142,Allapattah,Active
+711,CARIBBEAN SOUVENIRS INCORPORATED,Retail,33142,Allapattah,Active
+712,SALO A JOLI VARIETY STORE,Retail,33142,Allapattah,Active
+713,PORTENO CARS LLC,Retail,33142,Allapattah,Active
+714,A & D MOTORS SALES CORP,Retail,33142,Allapattah,Active
+715,JESSIE TRICE COMMUNITY HEALTH CENTER INC,Retail,33142,Allapattah,Active
+716,FULWELL LLC,Real Estate,33142,Allapattah,Active
+717,SANCHEZ AC MULTISERVICES LLC,Real Estate,33142,Allapattah,Active
+718,DONNATELLA HANDBAGS & PERFUMES INC,Real Estate,33142,Allapattah,Active
+719,FLORIDA LUMBER CO,Real Estate,33142,Allapattah,Active
+720,H & J ASPHALT,Real Estate,33142,Allapattah,Active
+721,MINISTERIO INTL CENTRO DE AVIVAMIENTO LA GRAN COMISION JUAN 3 16 INC,Real Estate,33142,Allapattah,Active
+722,FLORIGAS INC,Real Estate,33142,Allapattah,Active
+723,BG CONSTRUCTION POOLS LLC,Real Estate,33142,Allapattah,Active
+724,CONSISTENT LLC,Healthcare,33142,Allapattah,Active
+725,AIDS HEALTHCARE FOUNDATION INC,Healthcare,33142,Allapattah,Active
+726,MIAMI DENTAL LAB INC,Healthcare,33142,Allapattah,Active
+727,DIAZ KELLY DMD,Healthcare,33142,Allapattah,Active
+728,WSM SUPPLIER LLC,Healthcare,33142,Allapattah,Active
+729,LABORATORY CORPORATION OF AMERICA,Healthcare,33142,Allapattah,Active
+730,ACTIIVE ADULT DAY CARE CENTER,Healthcare,33142,Allapattah,Active
+731,CAREATC INC,Healthcare,33142,Allapattah,Active
+732,IT'S A SMALL WORLD LEARNING CENTER V INC,Technology,33142,Allapattah,Active
+733,WASHINGTON DEMOLITION AND AGGREGATES,Technology,33142,Allapattah,Active
+734,CUBESMART 5342,Technology,33142,Allapattah,Active
+735,CALVINELLE WEST ASSISTED LIVING FACILITY INC,Technology,33142,Allapattah,Active
+736,SHERATON MIAMI AIRPORT HOTEL & EXECUTIVE MEETING CENTER,Technology,33142,Allapattah,Active
+737,ITS A SMALL WORLD LEARNING CENTER V INC,Technology,33142,Allapattah,Active
+738,ST ALBANS CHILD ENRICHMENT CENTER,Technology,33142,Allapattah,Active
+739,CLEAR TRANSPORT LLC,Technology,33142,Allapattah,Active
+740,BEAR POWER MECHANICAL CORP,Construction,33142,Allapattah,Active
+741,PEOPLES PLUMBING AND MECHANICAL INC,Construction,33142,Allapattah,Active
+742,SATE,Construction,33142,Allapattah,Active
+743,CG ROOFING SERVICES INC,Construction,33142,Allapattah,Active
+744,CHAMP PLUMBING CORP,Construction,33142,Allapattah,Active
+745,DRIVE CONSTRUCTION LLC,Construction,33142,Allapattah,Active
+746,HK CONSTRUCTION AND REMODELING LLC,Construction,33142,Allapattah,Active
+747,CAMEROTTA BUILDERS CORP,Construction,33142,Allapattah,Active
+748,SATE,Professional Services,33142,Allapattah,Active
+749,OUR HOMES BUSINESS AND PROPERTY SERVICES,Professional Services,33142,Allapattah,Active
+750,THE BRIGHT BANG LLC,Professional Services,33142,Allapattah,Active
+751,DIAZ CRYSTAL,Professional Services,33142,Allapattah,Active
+752,QUICK CLAIMS CONSULTANTS,Professional Services,33142,Allapattah,Active
+753,DBM LANDSCAPING INC,Professional Services,33142,Allapattah,Active
+754,DESIGN BY NATURE CORP,Professional Services,33142,Allapattah,Active
+755,LOPEZ PASTOR ANTONIO,Professional Services,33142,Allapattah,Active
+756,1575 APARTMENTS LLC,Beauty & Personal Care,33142,Allapattah,Active
+757,LIBERTY GATEWAY LTD,Beauty & Personal Care,33142,Allapattah,Active
+758,ALLAPATTAH APARTMENTS LLC,Beauty & Personal Care,33142,Allapattah,Active
+759,S AND C APTS,Beauty & Personal Care,33142,Allapattah,Active
+760,3599 LLC,Beauty & Personal Care,33142,Allapattah,Active
+761,BROWNSVILLE TRANSIT VILLAGE IV LTD,Beauty & Personal Care,33142,Allapattah,Active
+762,CREEK CLUB APARTMENTS INC,Beauty & Personal Care,33142,Allapattah,Active
+763,STAYBRIDGE MIAMI AIRPORT,Beauty & Personal Care,33142,Allapattah,Active
+764,BEIAMED2 LLC,Food & Beverage,33145,Shenandoah,Active
+765,DIAZ YURISLEIDY,Food & Beverage,33145,Shenandoah,Active
+766,EUROPA HAIR STUDIO LLC,Food & Beverage,33145,Shenandoah,Active
+767,ROSIE CARTAGENA HAIR STUDIO,Food & Beverage,33145,Shenandoah,Active
+768,CHRISVANNY NAIL SALON,Food & Beverage,33145,Shenandoah,Active
+769,CARLEX HOLDING LLC,Food & Beverage,33145,Shenandoah,Active
+770,THE SPA CLASSIC BARBERSHOP,Food & Beverage,33145,Shenandoah,Active
+771,THE CURL WHISPERER LLC,Food & Beverage,33145,Shenandoah,Active
+772,LOPEZ OPTICAL OF CORAL WAY INC,Retail,33145,Shenandoah,Active
+773,BRASIL MANIA INC,Retail,33145,Shenandoah,Active
+774,IPD USA CORP,Retail,33145,Shenandoah,Active
+775,VISIONWORKS 340,Retail,33145,Shenandoah,Active
+776,INSTITUTO CRISTOVAO BRILHO CORP,Retail,33145,Shenandoah,Active
+777,AERY EXPORT LLC,Retail,33145,Shenandoah,Active
+778,BURLINGTON #1551,Retail,33145,Shenandoah,Active
+779,CEREZOS FLOWERS,Retail,33145,Shenandoah,Active
+780,INTERNATIONAL BANKERS FINANCIAL GROUP INC,Real Estate,33145,Shenandoah,Active
+781,"MEDICAL EQUIPMENT SOLUTIONS, CORP",Real Estate,33145,Shenandoah,Active
+782,LA GRANDE BOUFFE INC,Real Estate,33145,Shenandoah,Active
+783,GREENC LLC,Real Estate,33145,Shenandoah,Active
+784,DR TRUE SURGICAL PRODUCTS,Real Estate,33145,Shenandoah,Active
+785,ANNGEL FRESH,Real Estate,33145,Shenandoah,Active
+786,WEST OF BRICKELL HOMES REALTY,Real Estate,33145,Shenandoah,Active
+787,SPINA TEAM,Real Estate,33145,Shenandoah,Active
+788,MEDSOURCE CONSULTANTS LLC,Healthcare,33145,Shenandoah,Active
+789,SANITAS,Healthcare,33145,Shenandoah,Active
+790,GRAU ORTHOPAEDICS LLC,Healthcare,33145,Shenandoah,Active
+791,HERNANDEZ ELIZABETH CARIDAD DPM,Healthcare,33145,Shenandoah,Active
+792,RODRIGUEZ TORRES MANOLO MD,Healthcare,33145,Shenandoah,Active
+793,ESPINOSA MICHEL P MD  @ SANITAS,Healthcare,33145,Shenandoah,Active
+794,GENTLE CARE INC,Healthcare,33145,Shenandoah,Active
+795,MENDOZA LIANA ACN,Healthcare,33145,Shenandoah,Active
+796,MCMULLAN CONSULTING LLC,Technology,33145,Shenandoah,Active
+797,CHIU MELANIO JULIAN,Technology,33145,Shenandoah,Active
+798,BARRIO JORGE V,Technology,33145,Shenandoah,Active
+799,CREATIVO CENTER FOR THE PERFORMING ARTS,Technology,33145,Shenandoah,Active
+800,MIAMI DADE STROKE CONSORTIUM INC,Technology,33145,Shenandoah,Active
+801,TECHNOLOGY COAST PARTNERS LLC,Technology,33145,Shenandoah,Active
+802,MANGROVE CREATIVE COLLECTIVE INC,Technology,33145,Shenandoah,Active
+803,SHANTI CARINI,Technology,33145,Shenandoah,Active
+804,A.R.M. PROPERTY SERVICES LLC,Construction,33145,Shenandoah,Active
+805,INGENIEROS CIVILES ESPECIALISTAS ICE LLC,Construction,33145,Shenandoah,Active
+806,PABON HANCY E,Construction,33145,Shenandoah,Active
+807,AGO NORTH AMERICA LLC,Construction,33145,Shenandoah,Active
+808,CP CONSTRUCTION SOLUTIONS CORP,Construction,33145,Shenandoah,Active
+809,LP PAINTING AND RESTORATION LLC,Construction,33145,Shenandoah,Active
+810,AR CONSTRUCTION GROUP LLC,Construction,33145,Shenandoah,Active
+811,A&H ELECTRIC LLC,Construction,33145,Shenandoah,Active
+812,HASSAN INTERNATIONAL LAW PLLC,Professional Services,33145,Shenandoah,Active
+813,PRESSMAN CHRISTIAN MICHAEL ESQ,Professional Services,33145,Shenandoah,Active
+814,OMAR K IBRAHEM PA ATTORNEY AT LAW,Professional Services,33145,Shenandoah,Active
+815,PERKINS LAW OFFICES PA,Professional Services,33145,Shenandoah,Active
+816,FERNANDEZ FERNANDO LS,Professional Services,33145,Shenandoah,Active
+817,MICHELLE MORA CONSULTING SERVICES LLC,Professional Services,33145,Shenandoah,Active
+818,US LAWNS OF SOUTH MIAMI,Professional Services,33145,Shenandoah,Active
+819,CLD ACCOUNTING TAX & ADVISORY LLC,Professional Services,33145,Shenandoah,Active
+820,EL GALLITO INVESTMENTS LLC,Beauty & Personal Care,33145,Shenandoah,Active
+821,COINCO INVESTMENT COMPANY INC,Beauty & Personal Care,33145,Shenandoah,Active
+822,DEVILLA INVESTMENTS CORP,Beauty & Personal Care,33145,Shenandoah,Active
+823,CARRASCO RUBEN & ELIZABETH,Beauty & Personal Care,33145,Shenandoah,Active
+824,SHENANDOAH GARDENS CORPORATION,Beauty & Personal Care,33145,Shenandoah,Active
+825,JABE DEVELOPMENT LLC,Beauty & Personal Care,33145,Shenandoah,Active
+826,JABE DEVELOPMENT LLC,Beauty & Personal Care,33145,Shenandoah,Active
+827,EXOTIC SEA APTS,Beauty & Personal Care,33145,Shenandoah,Active
+828,WILDEMAR A GIMENEZ,Food & Beverage,33155,Kendall,Active
+829,BARBIE SKIN CARE LLC,Food & Beverage,33155,Kendall,Active
+830,NEW COMPANY BEAUTY SUPPLY,Food & Beverage,33155,Kendall,Active
+831,OZCOZ JENNIFER G,Food & Beverage,33155,Kendall,Active
+832,COFFEE & HAIR CO,Food & Beverage,33155,Kendall,Active
+833,JORGITO BARBERSHOP LLC,Food & Beverage,33155,Kendall,Active
+834,SISTERS NAILS INC,Food & Beverage,33155,Kendall,Active
+835,"SALAZAR, PAULA",Food & Beverage,33155,Kendall,Active
+836,BEST PRICES APPLICANCES AND SERVICES LLC (DBA THE APPLIANCES OUTLET SOUTH),Retail,33155,Kendall,Active
+837,AMERICAN SIGNATURE FURNITURE #412,Retail,33155,Kendall,Active
+838,FREDDYS POOL SUPPLY,Retail,33155,Kendall,Active
+839,CVS/PHARMACY #10131,Retail,33155,Kendall,Active
+840,JJ & V INTERNATIONAL INC,Retail,33155,Kendall,Active
+841,CROWN WINE & SPIRITS 11,Retail,33155,Kendall,Active
+842,ASIA GROCERY,Retail,33155,Kendall,Active
+843,FUEGO'S CARS LLC,Retail,33155,Kendall,Active
+844,JEMINI VENTURES INC,Real Estate,33155,Kendall,Active
+845,ALABASTER SKIN CARE,Real Estate,33155,Kendall,Active
+846,CASH AMERICA PAWN OF MIAMI #4,Real Estate,33155,Kendall,Active
+847,DELTA INTERNATIONAL INC,Real Estate,33155,Kendall,Active
+848,VALMAR,Real Estate,33155,Kendall,Active
+849,COSETTE ALVES BK,Real Estate,33155,Kendall,Active
+850,LEON A INTERIORS MANUFACTURERS & DISTRIBUTORS INC,Real Estate,33155,Kendall,Active
+851,WHEEL DECO CORP,Real Estate,33155,Kendall,Active
+852,RODRIGUEZ HORTA DANAY APRN,Healthcare,33155,Kendall,Active
+853,GRANADOS MEDICAL CENTERS,Healthcare,33155,Kendall,Active
+854,MY PET HOSPITAL OF SOUTH MIAMI LLC,Healthcare,33155,Kendall,Active
+855,CENTURY RESEARCH & AESTHETICS LLC,Healthcare,33155,Kendall,Active
+856,AMG BETTER MINDS LLC,Healthcare,33155,Kendall,Active
+857,ULLOA VALLADARES RAUL MD,Healthcare,33155,Kendall,Active
+858,SANTOS CARLOS R MD,Healthcare,33155,Kendall,Active
+859,RODRIGUEZ  MARIA T LMHC,Healthcare,33155,Kendall,Active
+860,DIANA HOME CARE #II,Technology,33155,Kendall,Active
+861,CHERYL WIGGINS,Technology,33155,Kendall,Active
+862,SPEECH PATHOLOGY & EDUCATIONAL CENTER INC,Technology,33155,Kendall,Active
+863,VICTORY PROFORMANCE LLC,Technology,33155,Kendall,Active
+864,ART SPARK DESIGN COMPANY INC,Technology,33155,Kendall,Active
+865,TRAINING AREA 51 INC,Technology,33155,Kendall,Active
+866,CAMPANERIA VIRGILIO,Technology,33155,Kendall,Active
+867,SECURITY TITLE LLC,Technology,33155,Kendall,Active
+868,LEALMAX TECH INC,Construction,33155,Kendall,Active
+869,KENDALL AIR CONDITIONING CORP,Construction,33155,Kendall,Active
+870,DEERE INDUSTRIES LLC,Construction,33155,Kendall,Active
+871,SOMI DEVELOPMENT,Construction,33155,Kendall,Active
+872,MC & C SERVICES LLC,Construction,33155,Kendall,Active
+873,WATER LEAK DETECTORS INC,Construction,33155,Kendall,Active
+874,OSEGUERA CABINET CORP,Construction,33155,Kendall,Active
+875,CAPCON CONSTRUCTION CORP,Construction,33155,Kendall,Active
+876,ONE TWO TREE,Professional Services,33155,Kendall,Active
+877,PUIG ALEX,Professional Services,33155,Kendall,Active
+878,ADRIANA SANTANA,Professional Services,33155,Kendall,Active
+879,SOLASI SOUTH MIAMI,Professional Services,33155,Kendall,Active
+880,"ALIGNED LAW FIRM, LLC",Professional Services,33155,Kendall,Active
+881,BENJAMIN LEGAL GROUP LLC,Professional Services,33155,Kendall,Active
+882,MARTHA ACCOUNTING INC,Professional Services,33155,Kendall,Active
+883,GORDIAN RISK SOLUTIONS LLC,Professional Services,33155,Kendall,Active
+884,6750 CORPORATION,Beauty & Personal Care,33155,Kendall,Active
+885,ARRITOLA ALBERTO,Beauty & Personal Care,33155,Kendall,Active
+886,LUDLAM TERRANCE APTS,Beauty & Personal Care,33155,Kendall,Active
+887,62 BIRD LLC,Beauty & Personal Care,33155,Kendall,Active
+888,61 BIRD LLC,Beauty & Personal Care,33155,Kendall,Active
+889,7401 BIRD RD LLC,Beauty & Personal Care,33155,Kendall,Active
+890,SOL MIAMI MED SPA,Beauty & Personal Care,33155,Kendall,Active
+891,CORAL VIEW APARTMENTS,Beauty & Personal Care,33155,Kendall,Active
+892,BEIGE BEAUTY SALON CORP,Food & Beverage,33166,Doral,Active
+893,TRADITIONAL SNACK INC,Food & Beverage,33166,Doral,Active
+894,LITTLE CASTLE SALON CORP,Food & Beverage,33166,Doral,Active
+895,DADDY GOURMET,Food & Beverage,33166,Doral,Active
+896,PINZON PARRADO MARY,Food & Beverage,33166,Doral,Active
+897,EXPERIENCE SEAFOOD LLC,Food & Beverage,33166,Doral,Active
+898,MELVIS HAIR SOLUTIONS & MORE CORP,Food & Beverage,33166,Doral,Active
+899,CONALI LLC,Food & Beverage,33166,Doral,Active
+900,ELITE AUTO SOLUTIONS,Retail,33166,Doral,Active
+901,BLACK HAWK FIREARMS & SECURITY SUPPLY,Retail,33166,Doral,Active
+902,PHOX COMMUNICATION INC,Retail,33166,Doral,Active
+903,BELLA KRYSTAL LLC,Retail,33166,Doral,Active
+904,AP AUTO LLC,Retail,33166,Doral,Active
+905,RODRIGUEZ SHELL SERVICE,Retail,33166,Doral,Active
+906,RUGTEX OF FLA INC,Retail,33166,Doral,Active
+907,CITA AUTO SALES INC,Retail,33166,Doral,Active
+908,IT SHOPP,Real Estate,33166,Doral,Active
+909,HASMA MEDICAL SOLUTION I INC,Real Estate,33166,Doral,Active
+910,CHAMPION INTERNATIONAL L C,Real Estate,33166,Doral,Active
+911,ATHARVA IMPORTS INC,Real Estate,33166,Doral,Active
+912,RACE PRIME CORP,Real Estate,33166,Doral,Active
+913,TREE TRADING LLC,Real Estate,33166,Doral,Active
+914,TRUST MORTGAGE LENDING CORP,Real Estate,33166,Doral,Active
+915,INDUSTRIAL DISTRIBUTORS INTERNATIONAL CO,Real Estate,33166,Doral,Active
+916,FONSECA JOANNA LMHC,Healthcare,33166,Doral,Active
+917,BRITO HOME HEALTH INC.,Healthcare,33166,Doral,Active
+918,HEALTHTRUST HOME HEALTHCARE SERVICES LLC,Healthcare,33166,Doral,Active
+919,JS MED TECNOLOGIES LLC,Healthcare,33166,Doral,Active
+920,FRANCIS N CRESPO MD PA,Healthcare,33166,Doral,Active
+921,DORAL WELFARE ANIMAL HOSPITAL,Healthcare,33166,Doral,Active
+922,LEBRON GINORIO MICHELLE MARIE MD,Healthcare,33166,Doral,Active
+923,NEW HORIZON MEDICAL CENTER LLC,Healthcare,33166,Doral,Active
+924,GEM23 LLC,Technology,33166,Doral,Active
+925,TECHNICAL AVIATION SERVICES INC,Technology,33166,Doral,Active
+926,DILLIGAT INTERNATIONAL LLC,Technology,33166,Doral,Active
+927,BITCOLOGY LLC,Technology,33166,Doral,Active
+928,FG STEEL RULE DIES,Technology,33166,Doral,Active
+929,SIMULATOR CENTER LLC,Technology,33166,Doral,Active
+930,AQUADOLPHIN WATERSPORTS LLC,Technology,33166,Doral,Active
+931,VETERAN NDT SOLUTIONS LLC,Technology,33166,Doral,Active
+932,5250 PARK VENTURE LLC,Construction,33166,Doral,Active
+933,AST ELECTRIC INC,Construction,33166,Doral,Active
+934,ACJC MECHANICAL LLC,Construction,33166,Doral,Active
+935,FIRE SPRINKLERS INC,Construction,33166,Doral,Active
+936,QWP DOORS PROTECTION INC,Construction,33166,Doral,Active
+937,SECURITY SYSTEMS SOLUTIONS CORP,Construction,33166,Doral,Active
+938,AARYA CONSTRUCTION & DESIGN INC,Construction,33166,Doral,Active
+939,WT GROUP MIA LLC,Construction,33166,Doral,Active
+940,FREGEOLLE JOHN A ESQ,Professional Services,33166,Doral,Active
+941,EL CONTADOR DORAL,Professional Services,33166,Doral,Active
+942,ELITE THINK GROUP CORP,Professional Services,33166,Doral,Active
+943,DDA CLAIMS MANAGEMENT,Professional Services,33166,Doral,Active
+944,GREENTREE INC,Professional Services,33166,Doral,Active
+945,BUSINESS CORPORATE SUPPORT LLC,Professional Services,33166,Doral,Active
+946,MANOS A LA OBRA MINISTRY INC,Professional Services,33166,Doral,Active
+947,J GENERAL SERVICES CORP,Professional Services,33166,Doral,Active
+948,NATIONAL TRUCK MANAGEMENT CORP,Beauty & Personal Care,33166,Doral,Active
+949,CURTISS PROPERTIES LLC,Beauty & Personal Care,33166,Doral,Active
+950,FLORIDA'S LOGISTIC AND CHASSIS RENTAL INC,Beauty & Personal Care,33166,Doral,Active
+951,LVP HMI MIAMI LLC,Beauty & Personal Care,33166,Doral,Active
+952,ALOFT MIAMI AIRPORT,Beauty & Personal Care,33166,Doral,Active
+953,CORDOBA OWNER LLC,Beauty & Personal Care,33166,Doral,Active
+954,FAIRWAY APTS,Beauty & Personal Care,33166,Doral,Active
+955,4 NAHKODA DRIVE LLC,Beauty & Personal Care,33166,Doral,Active

@@ -1,63 +1,13 @@
-export const INDUSTRY_GROUPS = [
-  "Food & Beverage",
-  "Retail",
-  "Real Estate",
-  "Healthcare",
-  "Technology",
-  "Construction",
-  "Professional Services",
-  "Beauty & Personal Care",
-];
-
-export const INDUSTRY_KEYS = [
-  "foodBev",
-  "retail",
-  "realEstate",
-  "healthcare",
-  "tech",
-  "construction",
-  "professional",
-  "beauty",
-];
-
-export const ZIP_DATA = [
-  { zip: "33125", name: "Little Havana", active: 4820, foodBev: 1205, retail: 964, realEstate: 434, healthcare: 289, tech: 145, construction: 578, professional: 530, beauty: 675 },
-  { zip: "33126", name: "Westchester", active: 3150, foodBev: 567, retail: 693, realEstate: 284, healthcare: 410, tech: 189, construction: 347, professional: 378, beauty: 282 },
-  { zip: "33127", name: "Wynwood", active: 2890, foodBev: 896, retail: 520, realEstate: 347, healthcare: 115, tech: 376, construction: 202, professional: 260, beauty: 174 },
-  { zip: "33128", name: "Downtown", active: 5240, foodBev: 786, retail: 629, realEstate: 891, healthcare: 367, tech: 524, construction: 419, professional: 1048, beauty: 576 },
-  { zip: "33130", name: "Brickell", active: 4670, foodBev: 701, retail: 514, realEstate: 981, healthcare: 280, tech: 654, construction: 327, professional: 934, beauty: 279 },
-  { zip: "33131", name: "Brickell Key", active: 2100, foodBev: 294, retail: 231, realEstate: 546, healthcare: 126, tech: 378, construction: 105, professional: 336, beauty: 84 },
-  { zip: "33132", name: "Edgewater", active: 2450, foodBev: 490, retail: 343, realEstate: 392, healthcare: 147, tech: 294, construction: 245, professional: 368, beauty: 171 },
-  { zip: "33133", name: "Coconut Grove", active: 2180, foodBev: 480, retail: 458, realEstate: 305, healthcare: 196, tech: 131, construction: 218, professional: 262, beauty: 130 },
-  { zip: "33134", name: "Coral Gables", active: 4390, foodBev: 527, retail: 659, realEstate: 703, healthcare: 527, tech: 307, construction: 264, professional: 878, beauty: 525 },
-  { zip: "33137", name: "Design District", active: 1680, foodBev: 504, retail: 454, realEstate: 185, healthcare: 67, tech: 218, construction: 101, professional: 84, beauty: 67 },
-  { zip: "33139", name: "South Beach", active: 5890, foodBev: 1767, retail: 942, realEstate: 530, healthcare: 236, tech: 177, construction: 295, professional: 707, beauty: 1236 },
-  { zip: "33142", name: "Allapattah", active: 3420, foodBev: 684, retail: 753, realEstate: 205, healthcare: 342, tech: 103, construction: 616, professional: 308, beauty: 409 },
-  { zip: "33145", name: "Shenandoah", active: 2760, foodBev: 662, retail: 580, realEstate: 248, healthcare: 221, tech: 110, construction: 331, professional: 276, beauty: 332 },
-  { zip: "33155", name: "Kendall", active: 3870, foodBev: 658, retail: 774, realEstate: 348, healthcare: 581, tech: 232, construction: 310, professional: 581, beauty: 386 },
-  { zip: "33166", name: "Doral", active: 6210, foodBev: 621, retail: 932, realEstate: 559, healthcare: 373, tech: 869, construction: 745, professional: 1242, beauty: 869 },
-];
-
-export const REGISTRATION_TRENDS = [
-  { year: 2019, "Food & Beverage": 3240, Retail: 2890, "Real Estate": 1820, Healthcare: 1450, Technology: 980, Construction: 1670, "Professional Services": 2100, "Beauty & Personal Care": 1340 },
-  { year: 2020, "Food & Beverage": 1890, Retail: 1720, "Real Estate": 1540, Healthcare: 1680, Technology: 1240, Construction: 1120, "Professional Services": 1890, "Beauty & Personal Care": 780 },
-  { year: 2021, "Food & Beverage": 3680, Retail: 2640, "Real Estate": 2310, Healthcare: 1720, Technology: 1560, Construction: 2080, "Professional Services": 2340, "Beauty & Personal Care": 1520 },
-  { year: 2022, "Food & Beverage": 4120, Retail: 2980, "Real Estate": 2650, Healthcare: 1890, Technology: 1980, Construction: 2340, "Professional Services": 2560, "Beauty & Personal Care": 1680 },
-  { year: 2023, "Food & Beverage": 4380, Retail: 3120, "Real Estate": 2420, Healthcare: 2050, Technology: 2450, Construction: 2180, "Professional Services": 2780, "Beauty & Personal Care": 1820 },
-  { year: 2024, "Food & Beverage": 4650, Retail: 3340, "Real Estate": 2180, Healthcare: 2280, Technology: 2890, Construction: 2450, "Professional Services": 3020, "Beauty & Personal Care": 1950 },
-];
-
-export function computeHHI(zipRow) {
-  const counts = INDUSTRY_KEYS.map((key) => zipRow[key]);
-  const total = zipRow.active;
-  return counts.reduce((sum, count) => sum + Math.pow(count / total, 2), 0);
-}
-
-export function classifyHHI(hhi) {
-  if (hhi > 0.18) return "Specialised";
-  if (hhi > 0.12) return "Mixed";
-  return "Diverse";
-}
+export {
+  INDUSTRY_GROUPS,
+  INDUSTRY_KEYS,
+  ZIP_DATA,
+  REGISTRATION_TRENDS,
+  computeHHI,
+  classifyHHI,
+  DATA_SOURCE,
+  DATA_FETCHED_AT,
+} from "./businessData.js";
 
 export const SAMPLE_QUERIES = [
   {

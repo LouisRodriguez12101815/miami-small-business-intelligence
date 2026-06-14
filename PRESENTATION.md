@@ -4,6 +4,9 @@
 **Duration:** 5–7 minutes demo + Q&A  
 **Your angle:** First time learning about HHI — using it as the lens for economic resilience
 
+**Live demo:** https://files-drab-theta.vercel.app  
+**GitHub:** https://github.com/LouisRodriguez12101815/miami-small-business-intelligence
+
 ---
 
 ## One-sentence pitch

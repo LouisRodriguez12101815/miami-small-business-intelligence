@@ -7,6 +7,7 @@ zip,neighborhood,industry_group,business_count
 33125,Little Havana,Construction,167
 33125,Little Havana,Professional Services,13
 33125,Little Havana,Beauty & Personal Care,358
+33125,Little Havana,Other (unclassified),848
 33126,Westchester,Food & Beverage,140
 33126,Westchester,Retail,360
 33126,Westchester,Real Estate,647
@@ -15,6 +16,7 @@ zip,neighborhood,industry_group,business_count
 33126,Westchester,Construction,346
 33126,Westchester,Professional Services,115
 33126,Westchester,Beauty & Personal Care,159
+33126,Westchester,Other (unclassified),2598
 33127,Wynwood,Food & Beverage,172
 33127,Wynwood,Retail,330
 33127,Wynwood,Real Estate,214
@@ -23,6 +25,7 @@ zip,neighborhood,industry_group,business_count
 33127,Wynwood,Construction,81
 33127,Wynwood,Professional Services,28
 33127,Wynwood,Beauty & Personal Care,130
+33127,Wynwood,Other (unclassified),838
 33128,Downtown,Food & Beverage,14
 33128,Downtown,Retail,38
 33128,Downtown,Real Estate,35
@@ -31,6 +34,7 @@ zip,neighborhood,industry_group,business_count
 33128,Downtown,Construction,7
 33128,Downtown,Professional Services,5
 33128,Downtown,Beauty & Personal Care,134
+33128,Downtown,Other (unclassified),163
 33130,Brickell,Food & Beverage,150
 33130,Brickell,Retail,305
 33130,Brickell,Real Estate,241
@@ -39,6 +43,7 @@ zip,neighborhood,industry_group,business_count
 33130,Brickell,Construction,110
 33130,Brickell,Professional Services,111
 33130,Brickell,Beauty & Personal Care,438
+33130,Brickell,Other (unclassified),1390
 33131,Brickell Key,Food & Beverage,135
 33131,Brickell Key,Retail,188
 33131,Brickell Key,Real Estate,831
@@ -47,6 +52,7 @@ zip,neighborhood,industry_group,business_count
 33131,Brickell Key,Construction,134
 33131,Brickell Key,Professional Services,728
 33131,Brickell Key,Beauty & Personal Care,36
+33131,Brickell Key,Other (unclassified),5106
 33132,Edgewater,Food & Beverage,135
 33132,Edgewater,Retail,344
 33132,Edgewater,Real Estate,352
@@ -55,6 +61,7 @@ zip,neighborhood,industry_group,business_count
 33132,Edgewater,Construction,74
 33132,Edgewater,Professional Services,52
 33132,Edgewater,Beauty & Personal Care,40
+33132,Edgewater,Other (unclassified),941
 33133,Coconut Grove,Food & Beverage,99
 33133,Coconut Grove,Retail,164
 33133,Coconut Grove,Real Estate,316
@@ -63,6 +70,7 @@ zip,neighborhood,industry_group,business_count
 33133,Coconut Grove,Construction,184
 33133,Coconut Grove,Professional Services,78
 33133,Coconut Grove,Beauty & Personal Care,101
+33133,Coconut Grove,Other (unclassified),1530
 33134,Coral Gables,Food & Beverage,269
 33134,Coral Gables,Retail,300
 33134,Coral Gables,Real Estate,580
@@ -71,6 +79,7 @@ zip,neighborhood,industry_group,business_count
 33134,Coral Gables,Construction,284
 33134,Coral Gables,Professional Services,355
 33134,Coral Gables,Beauty & Personal Care,291
+33134,Coral Gables,Other (unclassified),4384
 33137,Design District,Food & Beverage,149
 33137,Design District,Retail,346
 33137,Design District,Real Estate,271
@@ -79,6 +88,7 @@ zip,neighborhood,industry_group,business_count
 33137,Design District,Construction,103
 33137,Design District,Professional Services,53
 33137,Design District,Beauty & Personal Care,141
+33137,Design District,Other (unclassified),991
 33139,South Beach,Food & Beverage,261
 33139,South Beach,Retail,477
 33139,South Beach,Real Estate,441
@@ -87,6 +97,7 @@ zip,neighborhood,industry_group,business_count
 33139,South Beach,Construction,117
 33139,South Beach,Professional Services,51
 33139,South Beach,Beauty & Personal Care,548
+33139,South Beach,Other (unclassified),1631
 33142,Allapattah,Food & Beverage,130
 33142,Allapattah,Retail,874
 33142,Allapattah,Real Estate,625
@@ -95,6 +106,7 @@ zip,neighborhood,industry_group,business_count
 33142,Allapattah,Construction,280
 33142,Allapattah,Professional Services,14
 33142,Allapattah,Beauty & Personal Care,208
+33142,Allapattah,Other (unclassified),1576
 33145,Shenandoah,Food & Beverage,116
 33145,Shenandoah,Retail,129
 33145,Shenandoah,Real Estate,151
@@ -103,6 +115,7 @@ zip,neighborhood,industry_group,business_count
 33145,Shenandoah,Construction,137
 33145,Shenandoah,Professional Services,32
 33145,Shenandoah,Beauty & Personal Care,87
+33145,Shenandoah,Other (unclassified),1063
 33155,Kendall,Food & Beverage,212
 33155,Kendall,Retail,512
 33155,Kendall,Real Estate,533
@@ -111,6 +124,7 @@ zip,neighborhood,industry_group,business_count
 33155,Kendall,Construction,590
 33155,Kendall,Professional Services,59
 33155,Kendall,Beauty & Personal Care,38
+33155,Kendall,Other (unclassified),2290
 33166,Doral,Food & Beverage,179
 33166,Doral,Retail,693
 33166,Doral,Real Estate,1808
@@ -119,3 +133,4 @@ zip,neighborhood,industry_group,business_count
 33166,Doral,Construction,619
 33166,Doral,Professional Services,74
 33166,Doral,Beauty & Personal Care,134
+33166,Doral,Other (unclassified),3978

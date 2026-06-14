@@ -3,10 +3,12 @@ export {
   INDUSTRY_KEYS,
   ZIP_DATA,
   REGISTRATION_TRENDS,
+  ZIP_POPULATION,
   computeHHI,
   classifyHHI,
   DATA_SOURCE,
   DATA_FETCHED_AT,
+  POPULATION_SOURCE,
 } from "./businessData.js";
 
 export const SAMPLE_QUERIES = [

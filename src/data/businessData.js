@@ -1,6 +1,6 @@
 // AUTO-GENERATED — 15 hackathon ZIPs only, Miami-Dade LBT API
 // Source: gisweb.miamidade.gov/arcgis/rest/services/BusinessTracker/MapServer/0
-// Generated: 2026-06-14T00:40:35.325Z
+// Generated: 2026-06-14T00:54:10.933Z
 // Refresh: npm run data:fetch
 
 export const DATA_SOURCE = "Miami-Dade Local Business Tax (15 ZIP codes, active receipts)";
@@ -317,11 +317,94 @@ export const REGISTRATION_TRENDS = [
   }
 ];
 
+export const ZIP_POPULATION = [
+  {
+    "zip": "33125",
+    "population": 54873,
+    "popGrowthPct": -10.3
+  },
+  {
+    "zip": "33126",
+    "population": 56100,
+    "popGrowthPct": 2.1
+  },
+  {
+    "zip": "33127",
+    "population": 32500,
+    "popGrowthPct": 8.4
+  },
+  {
+    "zip": "33128",
+    "population": 19700,
+    "popGrowthPct": 7.8
+  },
+  {
+    "zip": "33130",
+    "population": 28100,
+    "popGrowthPct": 3.2
+  },
+  {
+    "zip": "33131",
+    "population": 20400,
+    "popGrowthPct": 5.1
+  },
+  {
+    "zip": "33132",
+    "population": 14200,
+    "popGrowthPct": 6.3
+  },
+  {
+    "zip": "33133",
+    "population": 22100,
+    "popGrowthPct": 1.4
+  },
+  {
+    "zip": "33134",
+    "population": 51200,
+    "popGrowthPct": 2.5
+  },
+  {
+    "zip": "33137",
+    "population": 20500,
+    "popGrowthPct": 9.2
+  },
+  {
+    "zip": "33139",
+    "population": 35100,
+    "popGrowthPct": -11
+  },
+  {
+    "zip": "33142",
+    "population": 47200,
+    "popGrowthPct": 3.8
+  },
+  {
+    "zip": "33145",
+    "population": 38100,
+    "popGrowthPct": 3.1
+  },
+  {
+    "zip": "33155",
+    "population": 58400,
+    "popGrowthPct": 1.2
+  },
+  {
+    "zip": "33166",
+    "population": 30200,
+    "popGrowthPct": 12.4
+  }
+];
+
+export const POPULATION_SOURCE = "US Census Bureau ACS 5-Year B01003 (2019 vs 2022 growth)";
+
 export function computeHHI(zipRow) {
   const counts = INDUSTRY_KEYS.map((key) => zipRow[key] || 0);
   const total = zipRow.active;
   if (!total) return 0;
-  return counts.reduce((sum, c) => sum + Math.pow(c / total, 2), 0);
+  const classified = counts.reduce((a, b) => a + b, 0);
+  const other = total - classified;
+  const sumClassified = counts.reduce((s, c) => s + Math.pow(c / total, 2), 0);
+  return sumClassified + Math.pow(other / total, 2);
 }
 
 export function classifyHHI(hhi) {

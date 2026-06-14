@@ -109,7 +109,7 @@ Pick 2–3 from your data:
 *"Miami has 55,000+ active small businesses. But not every neighborhood is equally diversified. I want to show you how we measure that — and why it matters for economic resilience."*
 
 ### 0:30 — SQL Explorer tab: HHI query
-1. Open **http://localhost:5173** (or Vercel URL)
+1. Open **https://files-drab-theta.vercel.app** (or `npm run dev` locally)
 2. Default view: SQL Explorer with HHI chart visible
 3. Click sample query **"HHI scores by neighborhood"**
 4. Click **Run Query**

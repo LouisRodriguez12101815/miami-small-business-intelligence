@@ -5,7 +5,7 @@
  * Run: npm run data:fetch
  */
 
-import { writeFileSync, mkdirSync, unlinkSync, existsSync } from "fs";
+import { writeFileSync, mkdirSync, unlinkSync, existsSync, readFileSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -70,7 +70,22 @@ function epochToIso(ms) {
 }
 
 function computeHHI(counts, total) {
-  return counts.reduce((s, c) => s + Math.pow(c / total, 2), 0);
+  const classified = counts.reduce((a, b) => a + b, 0);
+  const other = total - classified;
+  const sumClassified = counts.reduce((s, c) => s + Math.pow(c / total, 2), 0);
+  return sumClassified + Math.pow(other / total, 2);
+}
+
+function dominantIndustry(counts, total) {
+  const classified = counts.reduce((a, b) => a + b, 0);
+  const other = total - classified;
+  let best = INDUSTRY_GROUPS[0];
+  let max = counts[0];
+  INDUSTRY_GROUPS.forEach((g, i) => {
+    if (counts[i] > max) { max = counts[i]; best = g; }
+  });
+  if (other > max) return "Other (unclassified)";
+  return best;
 }
 
 function classifyHHI(hhi) {
@@ -88,6 +103,36 @@ function writeCsv(path, headers, rows) {
   writeFileSync(path, [headers.join(","), ...rows.map((r) => r.map(csvEscape).join(","))].join("\n") + "\n");
 }
 
+async function fetchCensusPopulations() {
+  const key = process.env.CENSUS_API_KEY;
+  if (!key) {
+    const embedded = JSON.parse(
+      readFileSync(join(__dirname, "../data/census/zip_population.json"), "utf8")
+    );
+    return HACKATHON_ZIPS.map((zip) => ({
+      zip,
+      population: embedded.zips[zip].population,
+      popGrowthPct: embedded.zips[zip].popGrowthPct,
+    }));
+  }
+
+  const zips = HACKATHON_ZIPS.join(",");
+  const url2019 = `https://api.census.gov/data/2019/acs/acs5?get=B01003_001E&for=zip%20code%20tabulation%20area:${zips}&key=${key}`;
+  const url2022 = `https://api.census.gov/data/2022/acs/acs5?get=B01003_001E&for=zip%20code%20tabulation%20area:${zips}&key=${key}`;
+
+  const [r19, r22] = await Promise.all([fetch(url2019), fetch(url2022)]);
+  const d19 = await r19.json();
+  const d22 = await r22.json();
+  const pop19 = Object.fromEntries(d19.slice(1).map((row) => [row[1], Number(row[0])]));
+  const pop22 = Object.fromEntries(d22.slice(1).map((row) => [row[1], Number(row[0])]));
+
+  return HACKATHON_ZIPS.map((zip) => {
+    const p19 = pop19[zip];
+    const p22 = pop22[zip];
+    const popGrowthPct = p19 ? Math.round(((p22 - p19) / p19) * 1000) / 10 : 0;
+    return { zip, population: p22, popGrowthPct };
+  });
+}
 async function fetchZipRecords(zip) {
   const where = `RCPTSTATUS='Active' AND ZIPCODE LIKE '${zip}%'`;
   const records = [];
@@ -130,6 +175,9 @@ async function main() {
 
   console.log("Fetching 15 ZIP codes from Miami-Dade LBT API (active only)...\n");
 
+  const zipPopulation = await fetchCensusPopulations();
+  console.log("Population data loaded (US Census ACS 5-year estimates)\n");
+
   for (const zip of HACKATHON_ZIPS) {
     const records = await fetchZipRecords(zip);
     const d = zipMap.get(zip);
@@ -170,11 +218,14 @@ async function main() {
     INDUSTRY_GROUPS.forEach((g, i) => { row[INDUSTRY_KEYS[i]] = d.counts[g]; });
 
     zipRows.push([z, name, d.total]);
+    const classified = INDUSTRY_GROUPS.reduce((s, g) => s + d.counts[g], 0);
+    const otherCount = d.total - classified;
     for (const g of INDUSTRY_GROUPS) industryRows.push([z, name, g, d.counts[g]]);
+    industryRows.push([z, name, "Other (unclassified)", otherCount]);
 
     const counts = INDUSTRY_GROUPS.map((g) => d.counts[g]);
     const hhi = d.total ? Math.round(computeHHI(counts, d.total) * 10000) / 10000 : 0;
-    const dominant = INDUSTRY_GROUPS.reduce((best, g) => (d.counts[g] > d.counts[best] ? g : best), INDUSTRY_GROUPS[0]);
+    const dominant = dominantIndustry(counts, d.total);
     hhiRows.push([z, name, d.total, hhi, classifyHHI(hhi), dominant]);
 
     for (const [key, count] of d.trends) {
@@ -225,11 +276,18 @@ export const ZIP_DATA = ${JSON.stringify(ZIP_DATA, null, 2)};
 
 export const REGISTRATION_TRENDS = ${JSON.stringify(REGISTRATION_TRENDS, null, 2)};
 
+export const ZIP_POPULATION = ${JSON.stringify(zipPopulation, null, 2)};
+
+export const POPULATION_SOURCE = "US Census Bureau ACS 5-Year B01003 (2019 vs 2022 growth)";
+
 export function computeHHI(zipRow) {
   const counts = INDUSTRY_KEYS.map((key) => zipRow[key] || 0);
   const total = zipRow.active;
   if (!total) return 0;
-  return counts.reduce((sum, c) => sum + Math.pow(c / total, 2), 0);
+  const classified = counts.reduce((a, b) => a + b, 0);
+  const other = total - classified;
+  const sumClassified = counts.reduce((s, c) => s + Math.pow(c / total, 2), 0);
+  return sumClassified + Math.pow(other / total, 2);
 }
 
 export function classifyHHI(hhi) {

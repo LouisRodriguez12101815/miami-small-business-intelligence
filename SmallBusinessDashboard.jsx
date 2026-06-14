@@ -5,6 +5,7 @@ import {
   INDUSTRY_GROUPS,
   ZIP_DATA,
   REGISTRATION_TRENDS,
+  ZIP_POPULATION,
   computeHHI,
   classifyHHI,
 } from "./src/data/businessData.js";
@@ -26,14 +27,19 @@ const HERFINDAHL_DATA = ZIP_DATA.map(z => {
   };
 });
 
-const OPPORTUNITY_DATA = ZIP_DATA.map(z => ({
-  zip: z.zip, name: z.name, population: Math.round(z.active * (3.2 + Math.random() * 2.8)),
-  popGrowth: Math.round((Math.random() * 18 - 2) * 10) / 10,
-  bizDensity: Math.round(z.active / (z.active * (3.2 + Math.random() * 2.8)) * 10000) / 10,
-  techDensity: Math.round(z.tech / z.active * 100 * 10) / 10,
-  healthDensity: Math.round(z.healthcare / z.active * 100 * 10) / 10,
-  foodDensity: Math.round(z.foodBev / z.active * 100 * 10) / 10,
-}));
+const OPPORTUNITY_DATA = ZIP_DATA.map((z) => {
+  const pop = ZIP_POPULATION.find((p) => p.zip === z.zip) || { population: 1, popGrowthPct: 0 };
+  return {
+    zip: z.zip,
+    name: z.name,
+    population: pop.population,
+    popGrowth: pop.popGrowthPct,
+    bizDensity: Math.round((z.active / pop.population) * 1000 * 10) / 10,
+    techDensity: Math.round((z.tech / z.active) * 1000) / 10,
+    healthDensity: Math.round((z.healthcare / z.active) * 1000) / 10,
+    foodDensity: Math.round((z.foodBev / z.active) * 1000) / 10,
+  };
+});
 
 // === COMPONENTS ===
 const KPICard = ({ icon: Icon, label, value, sub, trend }) => (

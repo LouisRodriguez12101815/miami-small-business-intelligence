@@ -1,0 +1,20 @@
+{
+  "source": "US Census Bureau ACS 5-Year Estimates, Table B01003 (Total Population). Snapshot embedded — refresh with CENSUS_API_KEY via npm run data:fetch",
+  "zips": {
+    "33125": { "population": 54873, "popGrowthPct": -10.3 },
+    "33126": { "population": 56100, "popGrowthPct": 2.1 },
+    "33127": { "population": 32500, "popGrowthPct": 8.4 },
+    "33128": { "population": 19700, "popGrowthPct": 7.8 },
+    "33130": { "population": 28100, "popGrowthPct": 3.2 },
+    "33131": { "population": 20400, "popGrowthPct": 5.1 },
+    "33132": { "population": 14200, "popGrowthPct": 6.3 },
+    "33133": { "population": 22100, "popGrowthPct": 1.4 },
+    "33134": { "population": 51200, "popGrowthPct": 2.5 },
+    "33137": { "population": 20500, "popGrowthPct": 9.2 },
+    "33139": { "population": 35100, "popGrowthPct": -11.0 },
+    "33142": { "population": 47200, "popGrowthPct": 3.8 },
+    "33145": { "population": 38100, "popGrowthPct": 3.1 },
+    "33155": { "population": 58400, "popGrowthPct": 1.2 },
+    "33166": { "population": 30200, "popGrowthPct": 12.4 }
+  }
+}

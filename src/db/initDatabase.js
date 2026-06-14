@@ -63,6 +63,10 @@ function getDominantIndustry(zipRow) {
     }
   });
 
+  const classified = INDUSTRY_KEYS.reduce((s, key) => s + (zipRow[key] || 0), 0);
+  const other = zipRow.active - classified;
+  if (other > maxCount) return "Other (unclassified)";
+
   return dominant;
 }
 
@@ -116,6 +120,12 @@ export async function initDatabase() {
         `INSERT INTO industry_counts (zip, industry_group, business_count) VALUES ('${z.zip}', '${escapeSql(industry)}', ${count})`
       );
     });
+
+    const classified = INDUSTRY_KEYS.reduce((s, key) => s + z[key], 0);
+    const otherCount = z.active - classified;
+    db.run(
+      `INSERT INTO industry_counts (zip, industry_group, business_count) VALUES ('${z.zip}', 'Other (unclassified)', ${otherCount})`
+    );
   }
 
   for (const b of buildBusinesses()) {

@@ -7,7 +7,7 @@ A React dashboard analyzing Miami-Dade local business tax receipt data across 15
 This project extends the hackathon spec with an interactive **SQL Explorer** focused on the **Herfindahl-Hirschman Index (HHI)** — a measure of economic diversity that indicates how resilient a neighborhood's business base is when one sector slows down.
 
 **Live demo:** *(add your Vercel URL after deploy)*  
-**Repository:** *(add your GitHub URL after push)*
+**Repository:** https://github.com/LouisRodriguez12101815/miami-small-business-intelligence
 
 ---
 
